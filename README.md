@@ -26,11 +26,6 @@
 - [Update pyproject.toml](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/2) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (2 weeks ago)
 - [fix quart](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/1) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (2 weeks ago)
 
-#### 📓 Gists I wrote
-
-- [swap.sh](https://gist.github.com/0bd60ea9f0859b9408defa4529d0c51c) (3 years ago)
-- [](https://gist.github.com/0afdc863c9e36893c708f868289e572f) (3 years ago)
-
 #### ⭐ Recent Stars
 
 - [VocaDB/vocadb](https://github.com/VocaDB/vocadb) - VocaDB is a Vocaloid Database with translated artists, albums, music videos and more. (2 weeks ago)
