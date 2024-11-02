@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Ovler's GitHub stats](https://github-readme-stats-mauve-one-69.vercel.app/api?username=Ovler-Young)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="54%" src="https://github-readme-stats-mauve-one-69.vercel.app/api?username=Ovler-Young&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
+<img align="left" width="41%" src="https://github-readme-stats-mauve-one-69.vercel.app/api/top-langs/?username=Ovler-Young&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
 #### 👷 Check out what I'm currently working on
 
