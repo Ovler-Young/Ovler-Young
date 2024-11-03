@@ -9,7 +9,7 @@
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) -  (4 months ago)
 - [LaoshuBaby/liulianmao](https://github.com/LaoshuBaby/liulianmao) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端 (4 months ago)
 
-#### 🌱 My latest projects
+#### 🌱 My latest projects (NO FORK INCLUDED)
 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
 - [Ovler-Young/dizzyview](https://github.com/Ovler-Young/dizzyview) - 
