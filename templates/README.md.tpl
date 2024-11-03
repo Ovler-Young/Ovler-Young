@@ -8,7 +8,11 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects (NO FORK INCLUDED)
+#### 🌱 My latest projects (5 Forks and 3 Original)
+{{range recentForks 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+---
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
