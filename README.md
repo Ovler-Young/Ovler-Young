@@ -9,7 +9,14 @@
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) -  (4 months ago)
 - [LaoshuBaby/liulianmao](https://github.com/LaoshuBaby/liulianmao) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端 (4 months ago)
 
-#### 🌱 My latest projects (NO FORK INCLUDED)
+#### 🌱 My latest projects (5 Forks and 3 Original)
+
+- [Ovler-Young/kill-the-newsletter](https://github.com/Ovler-Young/kill-the-newsletter) - Convert email newsletters into Atom feeds
+- [Ovler-Young/BlackboardSync](https://github.com/Ovler-Young/BlackboardSync) - Download your Blackboard Learn content automatically
+- [Ovler-Young/ranking-kit](https://github.com/Ovler-Young/ranking-kit) - 对知网与谷歌学术检索结果中的期刊信息进行排名，丐版easyScholar
+- [Ovler-Young/media-get](https://github.com/Ovler-Young/media-get) - Get the media through the url
+- [Ovler-Young/openwrt-tailscale-enabler](https://github.com/Ovler-Young/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
+---
 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
 - [Ovler-Young/dizzyview](https://github.com/Ovler-Young/dizzyview) - 
