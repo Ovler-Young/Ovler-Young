@@ -13,9 +13,9 @@
 
 - [Ovler-Young/kill-the-newsletter](https://github.com/Ovler-Young/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [Ovler-Young/openwrt-tailscale-enabler](https://github.com/Ovler-Young/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
-- [Ovler-Young/Image-Builder](https://github.com/Ovler-Young/Image-Builder) - Use Github Action for a easier way to compile firmwares with Image Builder.
 - [Ovler-Young/ist356](https://github.com/Ovler-Young/ist356) - Programming Techniques for Data Analytics
-- [Ovler-Young/tdd-spider](https://github.com/Ovler-Young/tdd-spider) - The data acquisition spider of https://tdd.bunnyxt.com via python.
+- [Ovler-Young/RuleCleaner](https://github.com/Ovler-Young/RuleCleaner) - 合并杂乱的 IP 规则文件为 CIDR（如果可用）
+- [Ovler-Young/BTN-Collected-Rules](https://github.com/Ovler-Young/BTN-Collected-Rules) - 由 BTN 网络统计分析/用户报告得出的可被安全的加入系统防火墙屏蔽的 IP 地址列表
 ---
 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
