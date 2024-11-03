@@ -9,7 +9,7 @@
 {{- end}}
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
-{{range recentForks 56}}
+{{range recentForks 6}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 - ---
