@@ -14,8 +14,8 @@
 - [Ovler-Young/kill-the-newsletter](https://github.com/Ovler-Young/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [Ovler-Young/openwrt-tailscale-enabler](https://github.com/Ovler-Young/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [Ovler-Young/ist356](https://github.com/Ovler-Young/ist356) - Programming Techniques for Data Analytics
-- [Ovler-Young/RuleCleaner](https://github.com/Ovler-Young/RuleCleaner) - 合并杂乱的 IP 规则文件为 CIDR（如果可用）
-- [Ovler-Young/BTN-Collected-Rules](https://github.com/Ovler-Young/BTN-Collected-Rules) - 由 BTN 网络统计分析/用户报告得出的可被安全的加入系统防火墙屏蔽的 IP 地址列表
+- [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+- [Ovler-Young/liulianmao](https://github.com/Ovler-Young/liulianmao) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
 ---
 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
