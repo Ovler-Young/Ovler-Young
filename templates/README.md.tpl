@@ -5,16 +5,16 @@
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 {{range recentForks 6}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 - ---
 {{range recentRepos 3}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}  ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
