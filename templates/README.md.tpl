@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 {{range recentForks 6}}
-- [{{.Name}}]({{.URL}}) - {{.Description}} ({{humanize .OccurredAt}})
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 - ---
 {{range recentRepos 3}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}  ({{humanize .OccurredAt}})
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
