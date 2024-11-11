@@ -25,20 +25,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.2), 3 days ago) - BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.3), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 4 months ago) - 
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 4 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
 - [LaoshuBaby/liulianmao](https://github.com/LaoshuBaby/liulianmao) ([1.0.0](https://github.com/LaoshuBaby/liulianmao/releases/tag/1.0.0), 7 months ago) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
 
 #### 🔨 My recent Pull Requests
 
-- [Update pyproject.toml](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/2) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (3 weeks ago)
-- [fix quart](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/1) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (3 weeks ago)
+- [Update pyproject.toml](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/2) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (4 weeks ago)
+- [fix quart](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/1) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (2 days ago)
-- [VocaDB/vocadb](https://github.com/VocaDB/vocadb) - VocaDB is a Vocaloid Database with translated artists, albums, music videos and more. (3 weeks ago)
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (3 days ago)
+- [VocaDB/vocadb](https://github.com/VocaDB/vocadb) - VocaDB is a Vocaloid Database with translated artists, albums, music videos and more. (4 weeks ago)
 - [lifeiteng/OmniSenseVoice](https://github.com/lifeiteng/OmniSenseVoice) - Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯 (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
