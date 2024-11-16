@@ -16,7 +16,7 @@
 - [Ovler-Young/ist356](https://github.com/Ovler-Young/ist356) - Programming Techniques for Data Analytics
 - [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
 - [Ovler-Young/liulianmao](https://github.com/Ovler-Young/liulianmao) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
-- [Ovler-Young/anto](https://github.com/Ovler-Young/anto) - 字幕文件(srt)翻译工具，Windows专用
+- [Ovler-Young/rclone](https://github.com/Ovler-Young/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - ---
 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.4), 4 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.4), 5 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 4 months ago) - 
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 4 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
 - [LaoshuBaby/liulianmao](https://github.com/LaoshuBaby/liulianmao) ([1.0.0](https://github.com/LaoshuBaby/liulianmao/releases/tag/1.0.0), 7 months ago) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
