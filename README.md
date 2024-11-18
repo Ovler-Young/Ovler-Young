@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.4), 6 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.4), 1 week ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 4 months ago) - 
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 4 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
 - [LaoshuBaby/liulianmao](https://github.com/LaoshuBaby/liulianmao) ([1.0.0](https://github.com/LaoshuBaby/liulianmao/releases/tag/1.0.0), 7 months ago) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent Stars
 
-- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (today)
+- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (1 day ago)
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (1 week ago)
 - [VocaDB/vocadb](https://github.com/VocaDB/vocadb) - VocaDB is a Vocaloid Database with translated artists, albums, music videos and more. (1 month ago)
 
