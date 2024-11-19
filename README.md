@@ -37,9 +37,9 @@
 
 #### ⭐ Recent Stars
 
-- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (1 day ago)
+- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (today)
+- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (2 days ago)
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (1 week ago)
-- [VocaDB/vocadb](https://github.com/VocaDB/vocadb) - VocaDB is a Vocaloid Database with translated artists, albums, music videos and more. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
