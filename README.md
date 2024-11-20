@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/ist356-classroom-fall2024-project-project](https://github.com/Ovler-Young/ist356-classroom-fall2024-project-project) - ist356-classroom-fall2024-project-project created by GitHub Classroom
 - [Ovler-Young/kill-the-newsletter](https://github.com/Ovler-Young/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [Ovler-Young/openwrt-tailscale-enabler](https://github.com/Ovler-Young/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [Ovler-Young/ist356](https://github.com/Ovler-Young/ist356) - Programming Techniques for Data Analytics
 - [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
 - [Ovler-Young/liulianmao](https://github.com/Ovler-Young/liulianmao) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
-- [Ovler-Young/rclone](https://github.com/Ovler-Young/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - ---
 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
@@ -37,8 +37,8 @@
 
 #### ⭐ Recent Stars
 
-- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (today)
-- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (2 days ago)
+- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (1 day ago)
+- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (3 days ago)
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (1 week ago)
 
 #### 👯 Check out some of my recent followers
