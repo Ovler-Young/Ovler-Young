@@ -15,7 +15,7 @@
 - [Ovler-Young/kill-the-newsletter](https://github.com/Ovler-Young/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [Ovler-Young/openwrt-tailscale-enabler](https://github.com/Ovler-Young/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [Ovler-Young/ist356](https://github.com/Ovler-Young/ist356) - Programming Techniques for Data Analytics
-- [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+- [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) - Ovler's edit of lobe-chat.
 - [Ovler-Young/liulianmao](https://github.com/Ovler-Young/liulianmao) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
 - ---
 
@@ -32,14 +32,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Haiku](https://github.com/the-ccsn/smartdownload/pull/1) on [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) (today)
+- [Haiku](https://github.com/the-ccsn/smartdownload/pull/1) on [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) (1 day ago)
 - [Update pyproject.toml](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/2) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (2 days ago)
-- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (4 days ago)
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (1 week ago)
+- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (3 days ago)
+- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (5 days ago)
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
