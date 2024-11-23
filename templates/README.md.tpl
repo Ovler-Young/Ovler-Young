@@ -17,13 +17,13 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
+#### 🔭 Latest releases released by me
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
+{{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
