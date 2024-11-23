@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/ani-rss](https://github.com/Ovler-Young/ani-rss) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [Ovler-Young/ist356-classroom-fall2024-project-project](https://github.com/Ovler-Young/ist356-classroom-fall2024-project-project) - ist356-classroom-fall2024-project-project created by GitHub Classroom
 - [Ovler-Young/kill-the-newsletter](https://github.com/Ovler-Young/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [Ovler-Young/openwrt-tailscale-enabler](https://github.com/Ovler-Young/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [Ovler-Young/ist356](https://github.com/Ovler-Young/ist356) - Programming Techniques for Data Analytics
 - [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) - Ovler's edit of lobe-chat.
-- [Ovler-Young/liulianmao](https://github.com/Ovler-Young/liulianmao) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
 - ---
 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
@@ -32,8 +32,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [添加 Telegram 格式配置支持](https://github.com/wushuo894/ani-rss/pull/96) on [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) (today)
 - [Fix 403 error handling in upload](https://github.com/saveweb/biliarchiver/pull/22) on [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) (1 day ago)
 - [Haiku](https://github.com/the-ccsn/smartdownload/pull/1) on [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) (2 days ago)
+- [Update pyproject.toml](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/2) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 month ago)
+- [fix quart](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/1) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 month ago)
 
 #### ⭐ Recent Stars
 
