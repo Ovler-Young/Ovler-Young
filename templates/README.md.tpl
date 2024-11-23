@@ -3,7 +3,7 @@
 <img align="left" width="54%" src="https://github-readme-stats-mauve-one-69.vercel.app/api?username=Ovler-Young&theme=dark&count_private=true&show_icons=true" />
 <img align="left" width="41%" src="https://github-readme-stats-mauve-one-69.vercel.app/api/top-langs/?username=Ovler-Young&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on in orgnizations!
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
