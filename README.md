@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) -  Use bilix to download BiliBili video and upload to the Internet Archive with metadata and danmaku.
 - [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) - download video from smartclass
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) - 猫猫的pilipili大bot | Bilibili archiver bot
-- [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -32,22 +32,22 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Haiku](https://github.com/the-ccsn/smartdownload/pull/1) on [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) (1 day ago)
-- [Update pyproject.toml](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/2) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 month ago)
+- [Fix 403 error handling in upload](https://github.com/saveweb/biliarchiver/pull/22) on [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) (1 day ago)
+- [Haiku](https://github.com/the-ccsn/smartdownload/pull/1) on [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (3 days ago)
-- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (5 days ago)
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (2 weeks ago)
+- [homeall/caddy-reverse-proxy-cloudflare](https://github.com/homeall/caddy-reverse-proxy-cloudflare) - Docker image with Caddy server and Cloudflare plugin installed (today)
+- [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (4 days ago)
+- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [samarjitsahoo](https://github.com/samarjitsahoo)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [witheredAd](https://github.com/witheredAd)
 - [hutianyu2006](https://github.com/hutianyu2006)
 - [yzqzss](https://github.com/yzqzss)
-- [eust-w](https://github.com/eust-w)
 
 #### 💬 Feedback
 
