@@ -25,31 +25,31 @@
 
 #### 🔭 Latest releases released by me
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.200](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.200), 3 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.4), 2 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.202](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.202), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.5](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.5), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 4 months ago) - 
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 5 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
-- [LaoshuBaby/liulianmao](https://github.com/LaoshuBaby/liulianmao) ([1.0.0](https://github.com/LaoshuBaby/liulianmao/releases/tag/1.0.0), 7 months ago) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
+- [LaoshuBaby/liulianmao](https://github.com/LaoshuBaby/liulianmao) ([1.0.0](https://github.com/LaoshuBaby/liulianmao/releases/tag/1.0.0), 8 months ago) - A LLM client for use from the command line or IDE. 一个在命令行或者IDE中使用的大语言模型客户端
 
 #### 🔨 My recent Pull Requests
 
-- [添加 Telegram 格式配置支持](https://github.com/wushuo894/ani-rss/pull/96) on [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) (3 days ago)
-- [Fix 403 error handling in upload](https://github.com/saveweb/biliarchiver/pull/22) on [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) (4 days ago)
-- [Haiku](https://github.com/the-ccsn/smartdownload/pull/1) on [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) (5 days ago)
+- [添加 Telegram 格式配置支持](https://github.com/wushuo894/ani-rss/pull/96) on [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) (4 days ago)
+- [Fix 403 error handling in upload](https://github.com/saveweb/biliarchiver/pull/22) on [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) (5 days ago)
+- [Haiku](https://github.com/the-ccsn/smartdownload/pull/1) on [the-ccsn/smartdownload](https://github.com/the-ccsn/smartdownload) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [homeall/caddy-reverse-proxy-cloudflare](https://github.com/homeall/caddy-reverse-proxy-cloudflare) - Docker image with Caddy server and Cloudflare plugin installed (3 days ago)
+- [homeall/caddy-reverse-proxy-cloudflare](https://github.com/homeall/caddy-reverse-proxy-cloudflare) - Docker image with Caddy server and Cloudflare plugin installed (4 days ago)
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (1 week ago)
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [MSCNUAN](https://github.com/MSCNUAN)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [witheredAd](https://github.com/witheredAd)
 - [hutianyu2006](https://github.com/hutianyu2006)
-- [yzqzss](https://github.com/yzqzss)
 
 #### 💬 Feedback
 
