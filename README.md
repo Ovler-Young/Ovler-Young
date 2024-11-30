@@ -23,7 +23,7 @@
 - [Ovler-Young/dizzyview](https://github.com/Ovler-Young/dizzyview) - 
 - [Ovler-Young/Mojibake-recovery](https://github.com/Ovler-Young/Mojibake-recovery) - Mojibake recovery. 乱码恢复 Try to encode and decode in utf-8, gbk, BIG5, euc_kr and much more
 
-#### 🔭 Latest releases released by me
+#### 🔭 Latest releases with my code
 
 - [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.204](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.204), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.1.5](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.1.5), 4 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
