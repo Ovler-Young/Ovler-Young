@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.209](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.209), today) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.2.2), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
-- [Losses/rune](https://github.com/Losses/rune) ([v1.0.0-rc.2](https://github.com/Losses/rune/releases/tag/v1.0.0-rc.2), 2 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.210](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.210), today) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.2.2), 3 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
+- [Losses/rune](https://github.com/Losses/rune) ([v1.0.0-rc.2](https://github.com/Losses/rune/releases/tag/v1.0.0-rc.2), 3 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 5 months ago) - 
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 5 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
 
 #### 🔨 My recent Pull Requests
 
-- [Remove .internal.dradis.netflix.com](https://github.com/SukkaW/Surge/pull/50) on [SukkaW/Surge](https://github.com/SukkaW/Surge) (1 day ago)
+- [Remove .internal.dradis.netflix.com](https://github.com/SukkaW/Surge/pull/50) on [SukkaW/Surge](https://github.com/SukkaW/Surge) (2 days ago)
 - [fix: Simplify artifact naming in CircleCI configuration](https://github.com/Losses/rune/pull/178) on [Losses/rune](https://github.com/Losses/rune) (1 week ago)
 - [fix(ci): Move cleanup step to the correct position in the build workflow](https://github.com/Losses/rune/pull/164) on [Losses/rune](https://github.com/Losses/rune) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [oerpub/mathconverter](https://github.com/oerpub/mathconverter) - Converts from AsciiMath, LaTeX, MathML to LaTeX, MathML (4 days ago)
+- [oerpub/mathconverter](https://github.com/oerpub/mathconverter) - Converts from AsciiMath, LaTeX, MathML to LaTeX, MathML (5 days ago)
 - [homeall/caddy-reverse-proxy-cloudflare](https://github.com/homeall/caddy-reverse-proxy-cloudflare) - Docker image with Caddy server and Cloudflare plugin installed (3 weeks ago)
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (3 weeks ago)
 
