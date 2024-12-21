@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases with my code
 
-- [Losses/rune](https://github.com/Losses/rune) ([v1.1.0-alpha.2](https://github.com/Losses/rune/releases/tag/v1.1.0-alpha.2), today) - Experience timeless melodies with a music player that blends classic design with modern technology.
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.214](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.214), today) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [Losses/rune](https://github.com/Losses/rune) ([v1.1.0-alpha.3](https://github.com/Losses/rune/releases/tag/v1.1.0-alpha.3), 1 day ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.214](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.214), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.2.2), 1 week ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 5 months ago) - 
-- [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 5 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
+- [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 6 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
 
 #### 🔨 My recent Pull Requests
 
@@ -40,7 +40,7 @@
 #### ⭐ Recent Stars
 
 - [oerpub/mathconverter](https://github.com/oerpub/mathconverter) - Converts from AsciiMath, LaTeX, MathML to LaTeX, MathML (1 week ago)
-- [homeall/caddy-reverse-proxy-cloudflare](https://github.com/homeall/caddy-reverse-proxy-cloudflare) - Docker image with Caddy server and Cloudflare plugin installed (3 weeks ago)
+- [homeall/caddy-reverse-proxy-cloudflare](https://github.com/homeall/caddy-reverse-proxy-cloudflare) - Docker image with Caddy server and Cloudflare plugin installed (4 weeks ago)
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems (1 month ago)
 
 #### 👯 Check out some of my recent followers
