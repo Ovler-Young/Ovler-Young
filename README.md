@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [Losses/rune](https://github.com/Losses/rune) ([v1.1.0-alpha.3](https://github.com/Losses/rune/releases/tag/v1.1.0-alpha.3), 1 day ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.214](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.214), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [Losses/rune](https://github.com/Losses/rune) ([v1.1.0-alpha.4](https://github.com/Losses/rune/releases/tag/v1.1.0-alpha.4), 1 day ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.214](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.214), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.2.2), 1 week ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 5 months ago) - 
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 6 months ago) - 猫猫的pilipili大bot | Bilibili archiver bot
