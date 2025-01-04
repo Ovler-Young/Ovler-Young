@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.217](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.217), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [Losses/rune](https://github.com/Losses/rune) ([v1.1.0-beta.2](https://github.com/Losses/rune/releases/tag/v1.1.0-beta.2), 3 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.217](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.217), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [Losses/rune](https://github.com/Losses/rune) ([v1.1.0-beta.2](https://github.com/Losses/rune/releases/tag/v1.1.0-beta.2), 4 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 week ago) - 
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.2.2), 3 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 6 months ago) - 
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web (4 days ago)
+- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web (5 days ago)
 - [Qetesh/logi-options-plus-mini](https://github.com/Qetesh/logi-options-plus-mini) - Let logi options plus do the job of keyboard and mouse only!disable logivoice、analytics、flow、sso、update、dfu、aipromptbuilder、device-recommendation (1 week ago)
 - [cc1a2b/JShunter](https://github.com/cc1a2b/JShunter) - jshunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints. This tool specializes in identifying sensitive data, such as API endpoints and potential security vulnerabilities, making it an essential resource for and bug bounty hunters and security researchers. (1 week ago)
 
