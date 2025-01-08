@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.217](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.217), 5 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.218](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.218), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 2 weeks ago) - 
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.2.2), 3 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 6 months ago) - 
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [rune: add version 1.0.0](https://github.com/ScoopInstaller/Extras/pull/14636) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 week ago)
+- [rune: add version 1.0.0](https://github.com/ScoopInstaller/Extras/pull/14636) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 weeks ago)
 - [Switch to Deno](https://github.com/icedata-top/hantang-saas/pull/1) on [icedata-top/hantang-saas](https://github.com/icedata-top/hantang-saas) (2 weeks ago)
 - [fix: Update makeLatest condition to exclude alpha and beta branches](https://github.com/Losses/rune/pull/209) on [Losses/rune](https://github.com/Losses/rune) (2 weeks ago)
 
