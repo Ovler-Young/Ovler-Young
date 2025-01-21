@@ -25,23 +25,23 @@
 
 #### 🔭 Latest releases with my code
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.3.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.3.3), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.222](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.222), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.3.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.3.3), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.222](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.222), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [Losses/rune](https://github.com/Losses/rune) ([v1.1.0](https://github.com/Losses/rune/releases/tag/v1.1.0), 1 week ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
-- [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 3 weeks ago) - 
+- [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 4 weeks ago) - 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add Admin and blacklist](https://github.com/saveweb/biliarchiverbot/pull/10) on [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) (today)
-- [fix: implement file system abstraction for JSON read/write operations](https://github.com/Ovler-Young/biliarchiverbot/pull/5) on [Ovler-Young/biliarchiverbot](https://github.com/Ovler-Young/biliarchiverbot) (today)
-- [Admin and blacklist](https://github.com/Ovler-Young/biliarchiverbot/pull/4) on [Ovler-Young/biliarchiverbot](https://github.com/Ovler-Young/biliarchiverbot) (today)
+- [feat: Add Admin and blacklist](https://github.com/saveweb/biliarchiverbot/pull/10) on [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) (1 day ago)
+- [fix: implement file system abstraction for JSON read/write operations](https://github.com/Ovler-Young/biliarchiverbot/pull/5) on [Ovler-Young/biliarchiverbot](https://github.com/Ovler-Young/biliarchiverbot) (1 day ago)
+- [Admin and blacklist](https://github.com/Ovler-Young/biliarchiverbot/pull/4) on [Ovler-Young/biliarchiverbot](https://github.com/Ovler-Young/biliarchiverbot) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [yuyuyzl/EasyVtuber](https://github.com/yuyuyzl/EasyVtuber) - Based on Talking-head-anime 3, works like Vtube Studio. (4 days ago)
+- [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. (today)
+- [yuyuyzl/EasyVtuber](https://github.com/yuyuyzl/EasyVtuber) - Based on Talking-head-anime 3, works like Vtube Studio. (5 days ago)
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework (3 weeks ago)
-- [Qetesh/logi-options-plus-mini](https://github.com/Qetesh/logi-options-plus-mini) - Let logi options plus do the job of keyboard and mouse only!disable logivoice、analytics、flow、sso、update、dfu、aipromptbuilder、device-recommendation (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
