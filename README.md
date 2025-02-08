@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.227](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.227), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.2), 6 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.227](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.227), 3 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.2), 1 week ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v1.1.0](https://github.com/Losses/rune/releases/tag/v1.1.0), 3 weeks ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 month ago) - 
 - [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [sync](https://github.com/Ovler-Young/lobe-chat/pull/10) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (1 day ago)
-- [feat: use bilibili iframe if not uploaded yet](https://github.com/Ovler-Young/biliarchiverbot/pull/6) on [Ovler-Young/biliarchiverbot](https://github.com/Ovler-Young/biliarchiverbot) (2 days ago)
-- [feat: use bilibili iframe if not uploaded yet](https://github.com/saveweb/biliarchiverbot/pull/13) on [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) (2 days ago)
+- [sync](https://github.com/Ovler-Young/lobe-chat/pull/10) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (2 days ago)
+- [feat: use bilibili iframe if not uploaded yet](https://github.com/Ovler-Young/biliarchiverbot/pull/6) on [Ovler-Young/biliarchiverbot](https://github.com/Ovler-Young/biliarchiverbot) (3 days ago)
+- [feat: use bilibili iframe if not uploaded yet](https://github.com/saveweb/biliarchiverbot/pull/13) on [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) (3 days ago)
 
 #### ⭐ Recent Stars
 
