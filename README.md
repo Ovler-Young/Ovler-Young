@@ -25,22 +25,22 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.8.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.8.0), today) - 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.3), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.300](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.300), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.8.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.8.0), 1 day ago) - 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.3), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.300](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.300), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [Losses/rune](https://github.com/Losses/rune) ([v1.1.0](https://github.com/Losses/rune/releases/tag/v1.1.0), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Add timestamps to downloaded files](https://github.com/sanjacob/BlackboardSync/pull/514) on [sanjacob/BlackboardSync](https://github.com/sanjacob/BlackboardSync) (today)
-- [track upstreams](https://github.com/Ovler-Young/lobe-chat/pull/11) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (today)
-- [sync](https://github.com/Ovler-Young/lobe-chat/pull/10) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (5 days ago)
+- [Add timestamps to downloaded files](https://github.com/sanjacob/BlackboardSync/pull/514) on [sanjacob/BlackboardSync](https://github.com/sanjacob/BlackboardSync) (1 day ago)
+- [track upstreams](https://github.com/Ovler-Young/lobe-chat/pull/11) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (1 day ago)
+- [sync](https://github.com/Ovler-Young/lobe-chat/pull/10) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [ahmedrangel/rand-user-agent](https://github.com/ahmedrangel/rand-user-agent) - This is an adapted version of rand-user-agent by WebScrapingAPI specifically designed for environments lacking access to server file systems (fs), such as Cloudflare Workers. (2 days ago)
-- [sukiaDp/yuri](https://github.com/sukiaDp/yuri) - A framework to control llm by attacking CoT (3 days ago)
+- [ahmedrangel/rand-user-agent](https://github.com/ahmedrangel/rand-user-agent) - This is an adapted version of rand-user-agent by WebScrapingAPI specifically designed for environments lacking access to server file systems (fs), such as Cloudflare Workers. (3 days ago)
+- [sukiaDp/yuri](https://github.com/sukiaDp/yuri) - A framework to control llm by attacking CoT (4 days ago)
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
