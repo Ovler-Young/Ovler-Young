@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.307](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.307), 6 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.308](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.308), today) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.8.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.8.1), 1 week ago) - 
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.3), 2 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v1.1.0](https://github.com/Losses/rune/releases/tag/v1.1.0), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
@@ -34,12 +34,12 @@
 #### 🔨 My recent Pull Requests
 
 - [rune: Add version 1.1.0](https://github.com/ScoopInstaller/Extras/pull/14888) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 week ago)
-- [Add timestamps to downloaded files](https://github.com/sanjacob/BlackboardSync/pull/514) on [sanjacob/BlackboardSync](https://github.com/sanjacob/BlackboardSync) (1 week ago)
-- [track upstreams](https://github.com/Ovler-Young/lobe-chat/pull/11) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (1 week ago)
+- [Add timestamps to downloaded files](https://github.com/sanjacob/BlackboardSync/pull/514) on [sanjacob/BlackboardSync](https://github.com/sanjacob/BlackboardSync) (2 weeks ago)
+- [track upstreams](https://github.com/Ovler-Young/lobe-chat/pull/11) on [Ovler-Young/lobe-chat](https://github.com/Ovler-Young/lobe-chat) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [zyqfork/monica-proxy](https://github.com/zyqfork/monica-proxy) -  (6 days ago)
+- [zyqfork/monica-proxy](https://github.com/zyqfork/monica-proxy) -  (1 week ago)
 - [duckdb/duckdb-node-neo](https://github.com/duckdb/duckdb-node-neo) - Second iteration on a DuckDB Node.js client (1 week ago)
 - [ahmedrangel/rand-user-agent](https://github.com/ahmedrangel/rand-user-agent) - This is an adapted version of rand-user-agent by WebScrapingAPI specifically designed for environments lacking access to server file systems (fs), such as Cloudflare Workers. (2 weeks ago)
 
