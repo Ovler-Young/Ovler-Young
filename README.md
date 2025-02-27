@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.309](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.309), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.310](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.310), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.8.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.8.1), 1 week ago) - 
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.3), 2 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v1.1.0](https://github.com/Losses/rune/releases/tag/v1.1.0), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
