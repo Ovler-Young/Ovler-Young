@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/cherry-studio](https://github.com/Ovler-Young/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+- [Ovler-Young/mcp-thinking-ocr](https://github.com/Ovler-Young/mcp-thinking-ocr) - thinking tool for mcp clients using Deepseek reasoner and mistral ocr
+- [Ovler-Young/Mistral-OCR-App](https://github.com/Ovler-Young/Mistral-OCR-App) - An OCR App built using Mistral OCR API and Streamlit.
 - [Ovler-Young/my-windhawk-mods](https://github.com/Ovler-Young/my-windhawk-mods) - My collection of Windhawk mods
 - [Ovler-Young/BlackboardSync](https://github.com/Ovler-Young/BlackboardSync) - Download your Blackboard Learn content automatically
 - [Ovler-Young/PeerBanHelper](https://github.com/Ovler-Young/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
-- [Ovler-Young/Extras](https://github.com/Ovler-Young/Extras) - 📦 The Extras bucket for Scoop.
-- [Ovler-Young/hantang-saas](https://github.com/Ovler-Young/hantang-saas) - 
-- [Ovler-Young/Surge](https://github.com/Ovler-Young/Surge) - Rule Snippet & Rule Set for Surge / Clash Premium / Clash Meta
 - ---
 
 - [Ovler-Young/HAR-to-ZIP](https://github.com/Ovler-Young/HAR-to-ZIP) - Extract HAR File to ZIP
@@ -25,23 +25,23 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.8.4](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.8.4), today) - 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.311](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.311), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.4), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.312](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.312), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.8.4](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.8.4), 1 day ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.2](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.2), 1 week ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.3), 3 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Workflow](https://github.com/icedata-top/hantang-dynamic/pull/1) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
+- [Fix Workflow](https://github.com/icedata-top/hantang-dynamic/pull/1) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
 - [Add Clean](https://github.com/saveweb/biliarchiver/pull/26) on [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) (1 week ago)
 - [rune: Add version 1.1.0](https://github.com/ScoopInstaller/Extras/pull/14888) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner (today)
 - [zyqfork/monica-proxy](https://github.com/zyqfork/monica-proxy) -  (2 weeks ago)
 - [duckdb/duckdb-node-neo](https://github.com/duckdb/duckdb-node-neo) - Second iteration on a DuckDB Node.js client (3 weeks ago)
-- [ahmedrangel/rand-user-agent](https://github.com/ahmedrangel/rand-user-agent) - This is an adapted version of rand-user-agent by WebScrapingAPI specifically designed for environments lacking access to server file systems (fs), such as Cloudflare Workers. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
