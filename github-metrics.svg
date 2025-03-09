@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1774" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -220,20 +220,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 40.5mb of code in 778 edited files across 458 commits</small>
+                <small>estimation from 40.5mb of code in 787 edited files across 460 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.23388301947557" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="453.23388301947557" y="0" width="1.440274568646719" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.6741575881223" y="0" width="0.8766587330598822" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.5508163211822" y="0" width="0.10427188378317075" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.65508820496535" y="0" width="0.038234160284446934" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="455.6933223652498" y="0" width="0.022451917005071962" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.71577428225487" y="0" width="0.008987584185734778" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.7247618664406" y="0" width="4.275238133559413" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.13670731845554" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="453.13670731845554" y="0" width="1.5363656234428797" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.6730729418984" y="0" width="0.876470772869499" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.54954371476794" y="0" width="0.10424952734914643" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.6537932421171" y="0" width="0.038225962681690935" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="455.6920192047988" y="0" width="0.022447103197331734" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.71446630799613" y="0" width="0.008985657200956175" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.7234519651971" y="0" width="4.276548034802986" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -292,13 +292,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 158 commits)</small>
+                    <small class="h-details">(computed from last 159 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 26.7 characters per line of code written</li>
-                        <li>Mostly pushes code around 10:00</li>
+                        <li>Has approximately 27.0 characters per line of code written</li>
+                        <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
@@ -1375,6 +1375,150 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c86db94</div>
+                                        <div class="message">feat: add user follow script and update environment configuration for user relations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#06c4a77</div>
+                                        <div class="message">chore: replace text patterns and remove workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3973bdf</div>
+                                        <div class="message">fix: smoothingSpeed is not defined</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9be0adc</div>
+                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a90cc10</div>
+                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89b1111</div>
+                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a633d8</div>
+                                        <div class="message">TTS have filter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00cba71</div>
+                                        <div class="message">🐛 fix: fix mistral can not chat (#6828)
+
+* ♻️ refactor: refactor the implement
+
+* fix mistral issue
+
+* improve log
+
+* refactor to the getXXXStoreState
+
+* fix tests</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00cba71</div>
+                                        <div class="message">🐛 fix: fix mistral can not chat (#6828)
+
+* ♻️ refactor: refactor the implement
+
+* fix mistral issue
+
+* improve log
+
+* refactor to the getXXXStoreState
+
+* fix tests</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">icedata-top/hantang-dynamic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1a7c9c5</div>
+                                        <div class="message">feat: add fetchUserRelation API to retrieve user relationship data</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">icedata-top/hantang-dynamic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db68d5d</div>
+                                        <div class="message">feat: add user relation management API</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">icedata-top/hantang-dynamic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#d682f16</div>
                                         <div class="message">feat: add user relation management API</div>
                                     </div>
@@ -1512,140 +1656,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86544a8</div>
-                                        <div class="message">Update dependency @google/generative-ai to ^0.24.0 (#6820)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3c49cf</div>
-                                        <div class="message">📝 docs(bot): Auto sync agents &amp; plugin to readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6eeba5</div>
-                                        <div class="message">
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            chore(release): v1.69.3 [skip ci]
-
-### [Version&amp;nbsp;1.69.3](https://github.com/lobehub/lobe-chat/compare/v1.69.2...v1.69.3)
-&lt;sup&gt;Released on **2025-03-08**&lt;/sup&gt;
-
-#### 💄 Styles
-
-- **misc**: Add login ui for next-auth.
-
-&lt;br/&gt;
-
-&lt;details&gt;
-&lt;summary&gt;&lt;kbd&gt;Improvements and Fixes&lt;/kbd&gt;&lt;/summary&gt;
-
-#### Styles
-
-* **misc**: Add login ui for next-auth, closes [#6434](https://github.com/lobehub/lobe-chat/issues/6434) ([541f275](https://github.com/lobehub/lobe-chat/commit/541f275))
-
-&lt;/details&gt;
-
-&lt;div align="right"&gt;
-
-[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
-
-&lt;/div&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ovler-Young/mcp-thinking-ocr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Ovler-Young</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c57bebf</div>
-                                        <div class="message">feat: add devcontainer configuration with bun feature</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#3 Custormize OCR model</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">Ovler-Young/mcp-thinking-ocr</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#2 mistral OCR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">Ovler-Young/mcp-thinking-ocr</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1 Thinking Configuration</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">Ovler-Young/mcp-thinking-ocr</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Mar 2025, 04:03:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2025, 05:02:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
