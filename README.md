@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.315](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.315), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.10.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.10.0), 3 days ago) - 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.4), 5 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.2](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.2), 1 week ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.1.318](https://github.com/wushuo894/ani-rss/releases/tag/v1.1.318), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.3](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.3), 1 day ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.10.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.10.0), 4 days ago) - 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.4), 6 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Enhance Build and Release Workflow with Artifact-Specific Strategy and Per-commit Build](https://github.com/CherryHQ/cherry-studio/pull/3206) on [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) (today)
-- [Fix Workflow](https://github.com/icedata-top/hantang-dynamic/pull/1) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (5 days ago)
+- [Enhance Build and Release Workflow with Artifact-Specific Strategy and Per-commit Build](https://github.com/CherryHQ/cherry-studio/pull/3206) on [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) (1 day ago)
+- [Fix Workflow](https://github.com/icedata-top/hantang-dynamic/pull/1) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (6 days ago)
 - [Add Clean](https://github.com/saveweb/biliarchiver/pull/26) on [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner (4 days ago)
+- [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner (5 days ago)
 - [zyqfork/monica-proxy](https://github.com/zyqfork/monica-proxy) -  (3 weeks ago)
 - [duckdb/duckdb-node-neo](https://github.com/duckdb/duckdb-node-neo) - Second iteration on a DuckDB Node.js client (3 weeks ago)
 
