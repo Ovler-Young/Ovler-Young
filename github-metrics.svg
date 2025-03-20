@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2337" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2003" class="">
     <defs>
         <style/>
     </defs>
@@ -292,12 +292,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 146 commits)</small>
+                    <small class="h-details">(computed from last 148 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 26.8 characters per line of code written</li>
+                        <li>Has approximately 26.9 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -1384,6 +1384,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">Ovler-Young/nmbXdBackup-gui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#adc36c4</div>
+                                        <div class="message">feat: Refactor save path generation for output files</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">icedata-top/hantang-dynamic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f9abafc</div>
+                                        <div class="message">refactor: break the original processCard to processCard and filterVideo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">icedata-top/hantang-dynamic</span>
                                     </div>
                                 </div>
@@ -1720,173 +1760,12 @@ Co-authored-by: gru-agent[bot] &lt;185149714+gru-agent[bot]@users.noreply.github
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2a4e2ed</div>
-                                        <div class="message">✨ feat: add Cohere provider support (#7016)
-
-* ✨ feat: add Cohere provider support
-
-* 💄 style: update cohere model list
-
-* 🐛 fix: fix cohere calling, exclude user and stream_options
-
-* 💄 style: update model description
-
-* 🐛 fix: fix cohere model list fetch
-
-* 🐛 fix: fix cohere calling
-
-* 💄 style: update provider desc
-
-* 💄 style: update model name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e0b60e</div>
-                                        <div class="message">📝 docs(bot): Auto sync agents &amp; plugin to readme</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 126 commits in
-                                        <span class="repo">Ovler-Young/cherry-studio</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#58412ae</div>
-                                        <div class="message">fix:Resolve bug where clearing context was invalid</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2392bb4</div>
-                                        <div class="message">fix:https://github.com/CherryHQ/cherry-studio/issues/3249
-
-- Removed ContextMenuOverlay component and integrated its styles directly into the Dropdown component for cleaner code.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2aa7ae</div>
-                                        <div class="message">Update README.ja.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e45aca2</div>
-                                        <div class="message">Update README.zh.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#083d1b5</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acc0d3e</div>
-                                        <div class="message">chore(version): 1.1.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb27be0</div>
-                                        <div class="message">fix(MCPSettings, OpenAIProvider): Update settings and content handling
-
-- Prevent modal from closing on mask click in MCPSettings
-- Ensure tool call response content is properly formatted as a string in OpenAIProvider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7122d44</div>
-                                        <div class="message">refactor(PaintingsList): Reposition new painting button
-
-Move the NewPaintingButton component to be rendered before the DragableList and remove unnecessary margin-top styling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d627e6</div>
-                                        <div class="message">feat(PaintingsStore): Modify painting addition order
-
-Change addPainting method to use unshift instead of push, ensuring new paintings are added to the beginning of the list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42b8b69</div>
-                                        <div class="message">fix(MCPSettings): MCP server environment variables parsing error
-
-If there is one or more equal (=) sign in value part, all would be lost</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bac4dcf</div>
-                                        <div class="message">refactor(Proxy): Improve system proxy monitoring and configuration handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06ab8f3</div>
-                                        <div class="message">refactor(Proxy): Update proxy configuration handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84360bf</div>
-                                        <div class="message">fix(package): update @modelcontextprotocol/sdk to use a patch for platform-specific shell handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1571461</div>
-                                        <div class="message">chore(version): 1.1.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#647ecbf</div>
-                                        <div class="message">fix: abortError handle</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1de54ca</div>
-                                        <div class="message">feat(ChatNavigation): Adjust navigation position based on topic settings
-
-This reverts commit aa75f902942ce8a56669bae03ff840a119e242cb.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abecb74</div>
-                                        <div class="message">fix(MessagesService): Refine empty message filtering logic
-
-- Update filterEmptyMessages to consider file presence
-- Ensure messages with empty content and no files are filtered out</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aae12a2</div>
-                                        <div class="message">feat(MCPService, ModelSettings): Enhance path handling and model filtering
-
-- Add enhanced PATH generation for MCP service across different platforms
-- Improve model filtering with new function calling model type
-- Refactor MCP service type definitions and transport initialization
-- Add platform-specific path handling for various development environments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa75f90</div>
-                                        <div class="message">feat(ChatNavigation): Adjust navigation position based on topic settings
-
-- Add dynamic positioning for navigation trigger area and container
-- Integrate with useSettings hook to determine navigation position
-- Support right-side topic layout by calculating navigation offset</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#723e686</div>
-                                        <div class="message">fix(MCPService): Improve server addition and status update error handling; add localized error messages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Mar 2025, 11:03:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2025, 12:03:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
