@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2181" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1961" class="">
     <defs>
         <style/>
     </defs>
@@ -292,12 +292,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 117 commits)</small>
+                    <small class="h-details">(computed from last 120 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 23.8 characters per line of code written</li>
+                        <li>Has approximately 24.2 characters per line of code written</li>
                         <li>Mostly pushes code around 07:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -1407,6 +1407,70 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d7cf382</div>
+                                        <div class="message">fix: update blacklist mentions format to use line breaks</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">saveweb/biliarchiverbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b85cdc</div>
+                                        <div class="message">feat: add logging options for chat ID and topic in README and implement logging functionality in handleBiliLink</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">saveweb/biliarchiverbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e3eaa13</div>
+                                        <div class="message">fix: update blacklist mentions format to include line breaks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2e3890</div>
+                                        <div class="message">docs: update README to include information about /admin command</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">saveweb/biliarchiverbot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#fcf16bf</div>
                                         <div class="message">fix: improve target ID extraction from admin command input</div>
                                     </div>
@@ -1785,132 +1849,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3396cff</div>
-                                        <div class="message">chore: replace text patterns and remove workflows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d23c45b</div>
-                                        <div class="message">fix: smoothingSpeed is not defined</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#619591a</div>
-                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51d8ee9</div>
-                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41522fd</div>
-                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#448938c</div>
-                                        <div class="message">TTS have filter</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0924657</div>
-                                        <div class="message">chore: replace text patterns and remove workflows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7c6e71</div>
-                                        <div class="message">fix: smoothingSpeed is not defined</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a39230</div>
-                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b60801c</div>
-                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e66db9</div>
-                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52fbc01</div>
-                                        <div class="message">TTS have filter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f7af4b</div>
-                                        <div class="message">Update dependency lucide-react to ^0.485.0 (#7230)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11b6467</div>
-                                        <div class="message">Update dependency @neondatabase/serverless to v1 (#7231)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0f7af4b</div>
-                                        <div class="message">Update dependency lucide-react to ^0.485.0 (#7230)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11b6467</div>
-                                        <div class="message">Update dependency @neondatabase/serverless to v1 (#7231)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Apr 2025, 02:04:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2025, 03:03:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
