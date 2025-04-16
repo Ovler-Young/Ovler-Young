@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2714" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -292,13 +292,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 89 commits)</small>
+                    <small class="h-details">(computed from last 97 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 22.8 characters per line of code written</li>
-                        <li>Mostly pushes code around 23:00</li>
+                        <li>Has approximately 22.5 characters per line of code written</li>
+                        <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -1418,6 +1418,560 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5e09991</div>
+                                        <div class="message">chore: replace text patterns and remove workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b76119</div>
+                                        <div class="message">fix: smoothingSpeed is not defined</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d3e613</div>
+                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e25a77</div>
+                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#703df56</div>
+                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f47d2d</div>
+                                        <div class="message">TTS have filter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d26885</div>
+                                        <div class="message">🐛 fix: fix model support file and image logic (#7387)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4d26885</div>
+                                        <div class="message">🐛 fix: fix model support file and image logic (#7387)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#62ad2da</div>
+                                        <div class="message">chore: replace text patterns and remove workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b82cfb5</div>
+                                        <div class="message">fix: smoothingSpeed is not defined</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#153e408</div>
+                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8d625a</div>
+                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36d3eb4</div>
+                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86a2ac2</div>
+                                        <div class="message">TTS have filter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4055840</div>
+                                        <div class="message">💄 style: add `step-r1` &amp; `glm-z1` model fetch support (#7420)
+
+* 💄 style: support `step-r1` series reasoning tag
+
+* 💄 style: support glm-z1 series reasoning tag
+
+* 🐛 fix: fix model fetch error from Zhipu</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4055840</div>
+                                        <div class="message">💄 style: add `step-r1` &amp; `glm-z1` model fetch support (#7420)
+
+* 💄 style: support `step-r1` series reasoning tag
+
+* 💄 style: support glm-z1 series reasoning tag
+
+* 🐛 fix: fix model fetch error from Zhipu</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76d38f5</div>
+                                        <div class="message">chore: replace text patterns and remove workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31dd639</div>
+                                        <div class="message">fix: smoothingSpeed is not defined</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a9180e</div>
+                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7b74aa</div>
+                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#097b20f</div>
+                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e16e613</div>
+                                        <div class="message">TTS have filter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bac348</div>
+                                        <div class="message">🚚 docs: replace old development doc with new version (#7423)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5695202</div>
+                                        <div class="message">📝 docs(bot): Auto sync agents &amp; plugin to readme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d58260f</div>
+                                        <div class="message">
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            chore(release): v1.80.0 [skip ci]
+
+## [Version&amp;nbsp;1.80.0](https://github.com/lobehub/lobe-chat/compare/v1.79.10...v1.80.0)
+&lt;sup&gt;Released on **2025-04-16**&lt;/sup&gt;
+
+#### ♻ Code Refactoring
+
+- **misc**: Rename new feature development doc to mdx, some code optimization.
+
+#### ✨ Features
+
+- **misc**: Opening settings copyright i18n, regenerate migrate sql for new agent opening settings.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Opening questions should should be hidden when no setted, opening settings migration type error.
+
+#### 💄 Styles
+
+- **misc**: Opening message container add border.
+
+&lt;br/&gt;
+
+&lt;details&gt;
+&lt;summary&gt;&lt;kbd&gt;Improvements and Fixes&lt;/kbd&gt;&lt;/summary&gt;
+
+#### Code refactoring
+
+* **misc**: Rename new feature development doc to mdx ([892a347](https://github.com/lobehub/lobe-chat/commit/892a347))
+* **misc**: Some code optimization ([47e04fa](https://github.com/lobehub/lobe-chat/commit/47e04fa))
+
+#### What's improved
+
+* **misc**: Opening settings copyright i18n ([27c5b45](https://github.com/lobehub/lobe-chat/commit/27c5b45))
+* **misc**: Regenerate migrate sql for new agent opening settings ([961d6a1](https://github.com/lobehub/lobe-chat/commit/961d6a1))
+
+#### What's fixed
+
+* **misc**: Opening questions should should be hidden when no setted ([211ee5e](https://github.com/lobehub/lobe-chat/commit/211ee5e))
+* **misc**: Opening settings migration type error ([72cf00e](https://github.com/lobehub/lobe-chat/commit/72cf00e))
+
+#### Styles
+
+* **misc**: Opening message container add border ([63b96c7](https://github.com/lobehub/lobe-chat/commit/63b96c7))
+
+&lt;/details&gt;
+
+&lt;div align="right"&gt;
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+&lt;/div&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0bac348</div>
+                                        <div class="message">🚚 docs: replace old development doc with new version (#7423)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5695202</div>
+                                        <div class="message">📝 docs(bot): Auto sync agents &amp; plugin to readme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d58260f</div>
+                                        <div class="message">
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            chore(release): v1.80.0 [skip ci]
+
+## [Version&amp;nbsp;1.80.0](https://github.com/lobehub/lobe-chat/compare/v1.79.10...v1.80.0)
+&lt;sup&gt;Released on **2025-04-16**&lt;/sup&gt;
+
+#### ♻ Code Refactoring
+
+- **misc**: Rename new feature development doc to mdx, some code optimization.
+
+#### ✨ Features
+
+- **misc**: Opening settings copyright i18n, regenerate migrate sql for new agent opening settings.
+
+#### 🐛 Bug Fixes
+
+- **misc**: Opening questions should should be hidden when no setted, opening settings migration type error.
+
+#### 💄 Styles
+
+- **misc**: Opening message container add border.
+
+&lt;br/&gt;
+
+&lt;details&gt;
+&lt;summary&gt;&lt;kbd&gt;Improvements and Fixes&lt;/kbd&gt;&lt;/summary&gt;
+
+#### Code refactoring
+
+* **misc**: Rename new feature development doc to mdx ([892a347](https://github.com/lobehub/lobe-chat/commit/892a347))
+* **misc**: Some code optimization ([47e04fa](https://github.com/lobehub/lobe-chat/commit/47e04fa))
+
+#### What's improved
+
+* **misc**: Opening settings copyright i18n ([27c5b45](https://github.com/lobehub/lobe-chat/commit/27c5b45))
+* **misc**: Regenerate migrate sql for new agent opening settings ([961d6a1](https://github.com/lobehub/lobe-chat/commit/961d6a1))
+
+#### What's fixed
+
+* **misc**: Opening questions should should be hidden when no setted ([211ee5e](https://github.com/lobehub/lobe-chat/commit/211ee5e))
+* **misc**: Opening settings migration type error ([72cf00e](https://github.com/lobehub/lobe-chat/commit/72cf00e))
+
+#### Styles
+
+* **misc**: Opening message container add border ([63b96c7](https://github.com/lobehub/lobe-chat/commit/63b96c7))
+
+&lt;/details&gt;
+
+&lt;div align="right"&gt;
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+&lt;/div&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f40f97b</div>
+                                        <div class="message">chore: replace text patterns and remove workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b617a12</div>
+                                        <div class="message">fix: smoothingSpeed is not defined</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a2266f</div>
+                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20ce8be</div>
+                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f02a75</div>
+                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23bdc8e</div>
+                                        <div class="message">TTS have filter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a64746a</div>
+                                        <div class="message">Merge pull request #7382 from lobehub/tj/feat/guide-message
+
+ ✨ feat: agent opening settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#892a347</div>
+                                        <div class="message">🚚 refactor: rename new feature development doc to mdx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9097aba</div>
+                                        <div class="message">📝 docs: add new feature development doc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f603be</div>
+                                        <div class="message">📝 docs(bot): Auto sync agents &amp; plugin to readme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ada7b23</div>
+                                        <div class="message">
+                                            <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKk0lEQVR4nO2ae1ST5x3Hn7q222nXnnV/1K1rbSAhIeQGCZeEcAkhb5L3GqxFq6hbt/bM01PXna5VrO6U3td1Wy+257RrJ4SLchGrqFyEggiEkBCuQiIgFy+gth6tK2q18Nt5KVdNIG6n6wv0c87vn4c8CZ/ned7n+T7nvAj9wA/4TU4qed+OzVjevjeZe9BiJH0T9ufMLdiF9zbiP0YLnU5r6DOdmfLHprdZN2GZmalYFVoMdGeHVvXmKE5Xpelun2jbscn4avYW48m0aW0Llg6r4rcDuxTgyQz7w0Rb5mbDsqxU7Er688aNaKEDaWhJV5aiuS8ndLhjh1I/0W7dYnwja4txOP1P5gh/v8uO4w820vRdaL7RmRP2cE+24mTfTsVVd7oitfEj1R1paWlLrJux0sxUbJBdEbP1b1tBB7sYyuFkSHAy1OVmmvwjmm94doU90JWlqD+RqwB2T3BnhL3b9GFkuHWzoSsjFatPTk7+kbd+TRbqUSdDXHRbKDibRMMJCwWNDDnaxlApaL4BgG7rzJCv785S1A7sUoz07VRca/1YlZO1Bbu6IxV7YsZnEbqtmSZfdVmokb4kGr6YVr0WChpo4lKTxRKC5is9WUqBJyP005O5Cmj5WPV57rbE6om/tZHkfS6aKmu2UDC4nJkhP1FuhgInRR7zMPM8TLnTw549kSsfcf0z/Ouid9Z9Uvr22uZDqSu/alpjGVvyX/iocxYKWmgCnBRRhOY7NdvjO9ijsu594mzF5pXXK95IgbK/r4OBFMtN4p9bqMkasrCrAAcnib+A5iv7316rLH5vPfRmh31z9HUNDLCSKxiofmkNVKet9inP1jmGhAGaADuJX2/EcSOajxx4LWVr8fZ1ox2vaKH3ZS2cH3/mO3+/AkreWTerPFtnaQKOUTjYSfPnHfTsxynnaGYI7MiTj1wq3r4eTq1JmpTvs1BQvfFRKHtrLbTSJPQxpE95ts5QOLSSZrDjxuZifJ5csFqSqG1OC/VN9yMUlP8tBWpeXA3nltPgYUhw0OSFsm2rakteS6lopKg3Gij8Ss/4IHiTZ+s0aQYnbgKbEfsEcRkPw9zTZKGKXAwFp5LosVnvfnw5FL+9DsrfWgvlW1eNVj/z6PrpfVpJknHQBAzS3uWHSDMMEmbox41gMxuh3mR4EnGRlhW0xMVQXW0MBWeXM5NLnq1TayxQ9+xKKHtx9YX976/X3Ni3gcT7+ulv5c9Q38oPkVPyg4QJTuMm6MaNUGvGLtuNRhXiEi0U9atGhjznsdDwxQ3yE3XcQoGLIRze+tsJvO/42Iz7lj+NG+GU2QhtJgPUYoZ+m8n0c8QVminieXbmz/uQZ2vQQoGDJkaaGCJ8el+72UzYWVk/5E+ZMThhwsBhNEANZqhgIzXiAk1J9MZWCzU2+77SHbvJudl0RxMXGmlzqosgzE6KSKsnzF+6Sdwv+ZMmtgzQZzRAHZYINQb9XxAX6EhO/qmToU53sYMwS7pjq4cmoIkiwEGaoZnE4fgtyp8wspUIx7BEOIIljtiMiUmICzgpKtJBk1f6pw3CbAFn5k5/a/IDWCL0G/TQbtDD4cSEizajMRhxgSaG2sAegUOW70aeFZ+QZ6svMQEceh1UJug8ZXL53YgLuBgqu4mV9Eve7FP+W3FsfNa9y/fqddCti4fahHioio/bg7hAR7LkTieNuzpo0k/5CXHT+Kz7L388IR56dHHg0cVBZXwsVMbEPIu4QNuKFYENFH6+myZmTXc3L/lbl++Oj4WuuBhojYuF8rjY61UxagPiAo2kiWygiG/6/Qw4U8+7d/m+RN/yx2K14InRgj1GC2UxMUNHYmN/ibiAgzK/4iBwOPU/y7Pis8lHg1sbDZ3RGjgcrYFSrcb+kUp1x/ftj9ik1kCaD7pwMwz6fcx5k2fF55bv0KihXR0FhzRqKFFHfYC4QHcKfq8NN/UcvYUzfrr8iVUrodeQCD26mfL9j/8aepIYcGs1k/JH1VHQHhUJrsgIKFZHjZaoI36DuIDdbJbXmrGvjvklP3OzO7PtBRi22eDMyy9Bj0EPx9kLV0Y6XHG7oYsioDNaPUO+LTICWiPCwRYRDgeiIoeLw8PDEBdoIExrbGbjaO8c6e7GnX4gZTVcPeaBqx4PDDsa4HJbG1zxeOByezt0ajVe5VvCVdCsUkJVhAqKIiL6DsTE3Ie4QK0R+9BuwqD/Vo65BB1cbm0dk54qN3xZ+Rl0aKJ8yjcpw8ClDIMSlQr2qVSHOHFzrNLpbq8zYTVOVtzPM74HN8Ow0zFDnq2vXI3Q/dhK3/JhodAYqgC7Qg5FyjDYq1C8hLhALYY9UIsZzrT5I280wJelpTfJs8//ZbcbhltaoOeJ3/mUdyrk4JDL4IhcBoUKxUiRTGZBXKDeoNPVYIav3bPId2OJcPHAAZ/yE/XvxkbwrEz2Kt8gl4FdKoV6SQgckkogXyY7ny8SBSAuUGvQP1et10O3j3TXbTbBwIYNcHLzJhh88y9wsbh4UvpiRQX0Pv0UuBkaWiIj5pSvCxFDrTgYiiQSyJVIWtN5vJ8gLlCtT8ir1eugJ0E3Z8DxUCQMt7ePDUDvxqdnXfYNMlZeMiUfHAw1IhEcFomgIETMDkIm4gL7Vaq7Dut1R+1zyE/s9EPb34NLdXXQpo70Ku8Yk5d6la8WBsHhIAFUCASQExwMOSLR5Gs93ys2k0nwWXzcBdcM+ZvTHbvTH03UQ/+m573Ly6fkbay8eEJeOClfxefDZ4GBcIDPhyyR8Os8kUiLuEB1QhxTHhsz0jop7z3dseIt4coZ8s4xeZlX+SMT8oIp+YoAHpQ//DDsDgwEa1DQ6XQe7xeIC1RoNX+tiNFC+yzyrHizKmxKfvyYY+VrZFI4HBICR8RiqAkWzZCvvEG+bNkyKHnoIdjJDgKfX5ePkNdXeP6vAEJLyrTqyiqtZuxG5yvgsNUYOlO+SiaF3QrF9Xy57FqeTAq5UgnkhYRAgVgMBcHBsFsYBIUCAezh8+HTgADYy+PBvmXLxsrKPg4CwT8QF6jS6X5WqlH31qijZk13E/J2GXvMSaBEKoUCubSQ/Y7MpUvv3i+RLCuUSLT5YuGqXLHwqVyRaGu2UPhBVlDQHiufX5khELisfP7JDIHgWjqfDxl8/qg1IGAt4gIV0dERxRr1lfqICL/kbSFi2CeVQIFU+vp/83uZfP79WQEBiuzAQL/fafzOKVWrnzwYFQmOOQKObTzg7JZIoCAkZP69WjcbxVFROw6Gh0PjHOmuWiSCPKkUdkqlcrSQyJdI7iwKVzrKlMpZ0125SAS7JCHX2c+jhUahXP7gHqXyXIVC7jPdlYiEsDM4+DhaqBQplfo9YaHX2KPOW7rbLxSy0bYULWT2hsq3FspkUC0W35TuCtkBEIneRQudAqm0cI9UAlU3pLtckRCyg4I2oIVO5tKld+dJJJ17RaJx+QAo5/EgSygEzlxqvmvyJZKQbHHwpf0CPlTweFDC47EXmtFigeBetFjYJRSuyhaJRg4GBEAROwACwRBabGQHBb2bHRQE+TweZPL5NWixkYbQEqtAUM1eZKwCwb/QYiSTz7+fvdFlBQQ8hxYreSKR1srnJ3zf/8cPoAXOfwAL8vk9sJk4qgAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
+                                            chore(release): v1.79.10 [skip ci]
+
+### [Version&amp;nbsp;1.79.10](https://github.com/lobehub/lobe-chat/compare/v1.79.9...v1.79.10)
+&lt;sup&gt;Released on **2025-04-15**&lt;/sup&gt;
+
+#### 💄 Styles
+
+- **misc**: Make gpt-4.1-mini default model.
+
+&lt;br/&gt;
+
+&lt;details&gt;
+&lt;summary&gt;&lt;kbd&gt;Improvements and Fixes&lt;/kbd&gt;&lt;/summary&gt;
+
+#### Styles
+
+* **misc**: Make gpt-4.1-mini default model, closes [#7414](https://github.com/lobehub/lobe-chat/issues/7414) ([724fcee](https://github.com/lobehub/lobe-chat/commit/724fcee))
+
+&lt;/details&gt;
+
+&lt;div align="right"&gt;
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+&lt;/div&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47e04fa</div>
+                                        <div class="message">♻️ refactor: some code optimization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27c5b45</div>
+                                        <div class="message">🌐 feat: opening settings copyright i18n</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64d23f4</div>
+                                        <div class="message">✅ test: update snapshots</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63b96c7</div>
+                                        <div class="message">💄 style: opening message container add border</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#211ee5e</div>
+                                        <div class="message">🐛 fix: opening questions should should be hidden when no setted</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#961d6a1</div>
+                                        <div class="message">✨ feat: regenerate migrate sql for new agent opening settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6002e82</div>
+                                        <div class="message">Merge branch 'main' of github.com:lobehub/lobe-chat into tj/feat/guide-message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72cf00e</div>
+                                        <div class="message">🐛 fix: opening settings migration type error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a614e3e</div>
+                                        <div class="message">feat: agent opening settings</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">Ovler-Young/lobe-chat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a64746a</div>
+                                        <div class="message">Merge pull request #7382 from lobehub/tj/feat/guide-message
+
+ ✨ feat: agent opening settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#892a347</div>
+                                        <div class="message">🚚 refactor: rename new feature development doc to mdx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9097aba</div>
+                                        <div class="message">📝 docs: add new feature development doc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f603be</div>
+                                        <div class="message">📝 docs(bot): Auto sync agents &amp; plugin to readme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ada7b23</div>
+                                        <div class="message">
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            chore(release): v1.79.10 [skip ci]
+
+### [Version&amp;nbsp;1.79.10](https://github.com/lobehub/lobe-chat/compare/v1.79.9...v1.79.10)
+&lt;sup&gt;Released on **2025-04-15**&lt;/sup&gt;
+
+#### 💄 Styles
+
+- **misc**: Make gpt-4.1-mini default model.
+
+&lt;br/&gt;
+
+&lt;details&gt;
+&lt;summary&gt;&lt;kbd&gt;Improvements and Fixes&lt;/kbd&gt;&lt;/summary&gt;
+
+#### Styles
+
+* **misc**: Make gpt-4.1-mini default model, closes [#7414](https://github.com/lobehub/lobe-chat/issues/7414) ([724fcee](https://github.com/lobehub/lobe-chat/commit/724fcee))
+
+&lt;/details&gt;
+
+&lt;div align="right"&gt;
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+&lt;/div&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47e04fa</div>
+                                        <div class="message">♻️ refactor: some code optimization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27c5b45</div>
+                                        <div class="message">🌐 feat: opening settings copyright i18n</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64d23f4</div>
+                                        <div class="message">✅ test: update snapshots</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63b96c7</div>
+                                        <div class="message">💄 style: opening message container add border</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#211ee5e</div>
+                                        <div class="message">🐛 fix: opening questions should should be hidden when no setted</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#961d6a1</div>
+                                        <div class="message">✨ feat: regenerate migrate sql for new agent opening settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6002e82</div>
+                                        <div class="message">Merge branch 'main' of github.com:lobehub/lobe-chat into tj/feat/guide-message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72cf00e</div>
+                                        <div class="message">🐛 fix: opening settings migration type error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a614e3e</div>
+                                        <div class="message">feat: agent opening settings</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 9 commits in
                                         <span class="repo">Ovler-Young/lobe-chat</span>
                                     </div>
@@ -1573,329 +2127,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64b1bab</div>
-                                        <div class="message">chore: replace text patterns and remove workflows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54725eb</div>
-                                        <div class="message">fix: smoothingSpeed is not defined</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab4b96f</div>
-                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12c695d</div>
-                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94a2375</div>
-                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#492d303</div>
-                                        <div class="message">TTS have filter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c4d7df</div>
-                                        <div class="message">💄 style: Add GPT-4.1 models (#7410)
-
-* Update openai.ts
-
-* Update openai.ts
-
-* Update openai.ts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3c4d7df</div>
-                                        <div class="message">💄 style: Add GPT-4.1 models (#7410)
-
-* Update openai.ts
-
-* Update openai.ts
-
-* Update openai.ts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ovleredit-upstream</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#42a807c</div>
-                                        <div class="message">chore: replace text patterns and remove workflows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83e944a</div>
-                                        <div class="message">fix: smoothingSpeed is not defined</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d64fc2f</div>
-                                        <div class="message">chore: 添加并发控制，确保工作流任务的唯一性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25c2ae9</div>
-                                        <div class="message">docs: 更新变更日志，记录平滑输出动画关闭及分支名修改</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06a7682</div>
-                                        <div class="message">docs: 添加变更日志，记录API更改和工作流调整</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bf0915</div>
-                                        <div class="message">TTS have filter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01c0120</div>
-                                        <div class="message">♻️ refactor: refactor trpc to have a clear obligation (#7412)
-
-* refactor trpc
-
-* refactor trpc folder
-
-* improve test
-
-* improve code
-
-* improve code</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ovler-Young/lobe-chat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#01c0120</div>
-                                        <div class="message">♻️ refactor: refactor trpc to have a clear obligation (#7412)
-
-* refactor trpc
-
-* refactor trpc folder
-
-* improve test
-
-* improve code
-
-* improve code</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ovler-Young/meilisync</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40a0cb2</div>
-                                        <div class="message">feat(meili): add batch logging for data addition process</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ovler-Young/meilisync</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e59f774</div>
-                                        <div class="message">refactor(meili): follow best practice, configure index before adding documents</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Ovler-Young/meilisync</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c2fbfbb</div>
-                                        <div class="message">feat(sync): add indexing attributes configuration for searchable, sortable, and filterable fields</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">the-ccsn/alist-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">origin</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#54ead52</div>
-                                        <div class="message">style: format code with prettier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8aa4da4</div>
-                                        <div class="message">chore: auto update i18n file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10e467c</div>
-                                        <div class="message">feat(audio): auto find cover and support Media Session API (#271)
-
-* feat(audio): auto find cover
-
-* style(audio): theme follow main color
-
-* feat(audio): support Media Session API
-
-* style(audio): color follow hope-ui
-
-* fix(audio): use rawLink to get cover
-
-* feat(audio): add more pattens to find cover
-
-* fix(audio): disable track controls when there is only one audio
-
-* feat: make the base name comparison case-insensitive
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: Andy Hsu &lt;i@nn.ci&gt;
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3eadef</div>
-                                        <div class="message">feat: add mpv player link (#270)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97141d8</div>
-                                        <div class="message">feat(artplayer): support screenshot (#269 close AlistGo/alist#8319)
-
-* chore(deps): update artplayer to ^5.2.2
-
-* chore(deps): update artplayer-plugin-danmuku to ^5.1.5
-
-* chore(deps): update hls.js to ^1.6.1
-
-* fix: remove deprecated options in artplayerPluginDanmuku
-
-* feat(video): support screenshot
-
-* fix(video): support cross-origin sceenshot
-
-* style(video): theme follow main color</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18d0523</div>
-                                        <div class="message">feat: replace flv.js with mpegts.js (#268)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49788e8</div>
-                                        <div class="message">style: format code with prettier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f58c8d7</div>
-                                        <div class="message">fix(url): add location.pathname check，prevent duplicate jumps (#267)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9616fa5</div>
-                                        <div class="message">chore(deps): update dependency vite to v4.5.13 (#272)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17adcd6</div>
-                                        <div class="message">style: format code with prettier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b48ac16</div>
-                                        <div class="message">chore: auto update i18n file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Apr 2025, 08:04:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2025, 09:10:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
