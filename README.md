@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.2.43](https://github.com/wushuo894/ani-rss/releases/tag/v1.2.43), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.2.44](https://github.com/wushuo894/ani-rss/releases/tag/v1.2.44), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.14](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.14), 1 week ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 1 month ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (2 weeks ago)
+- [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (3 weeks ago)
 - [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner (1 month ago)
 - [zyqfork/monica-proxy](https://github.com/zyqfork/monica-proxy) -  (2 months ago)
 
