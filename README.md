@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.2.76](https://github.com/wushuo894/ani-rss/releases/tag/v1.2.76), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.2.77](https://github.com/wushuo894/ani-rss/releases/tag/v1.2.77), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.15](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.15), 3 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 2 months ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 2 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Test keyerror qq](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/3) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (2 days ago)
+- [Test keyerror qq](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/3) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (3 days ago)
 - [jiz4oh Branch](https://github.com/Ovler-Young/efb-telegram-master/pull/6) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 - [More topics](https://github.com/Ovler-Young/efb-telegram-master/pull/5) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 month ago)
 
@@ -45,11 +45,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [Yazs-17](https://github.com/Yazs-17)
 - [sanjacob](https://github.com/sanjacob)
 - [kingkong2024](https://github.com/kingkong2024)
 - [MSCNUAN](https://github.com/MSCNUAN)
-- [witheredAd](https://github.com/witheredAd)
 
 #### 💬 Feedback
 
