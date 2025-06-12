@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 - [Ovler-Young/ScienceDirect2MarkDown](https://github.com/Ovler-Young/ScienceDirect2MarkDown) - A Python tool to convert ScienceDirect JSON content to Markdown format, supporting text styling, math formulas, tables, and figures.
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) - 猫猫的pilipili大bot | Bilibili archiver bot
-- [Ovler-Young/website](https://github.com/Ovler-Young/website) - Personal Website
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v1.2.82](https://github.com/wushuo894/ani-rss/releases/tag/v1.2.82), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.2](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.2), today) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.15](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.15), 1 month ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 2 months ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 2 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
@@ -33,8 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add History migration](https://github.com/jiz4oh/efb-telegram-master/pull/4) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (3 days ago)
-- [Fix class topic assoc has no id member](https://github.com/jiz4oh/efb-telegram-master/pull/3) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (4 days ago)
+- [Add History migration](https://github.com/jiz4oh/efb-telegram-master/pull/4) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (4 days ago)
+- [Fix class topic assoc has no id member](https://github.com/jiz4oh/efb-telegram-master/pull/3) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (5 days ago)
 - [Test keyerror qq](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/3) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 week ago)
 
 #### ⭐ Recent Stars
