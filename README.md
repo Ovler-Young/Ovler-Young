@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.12](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.12), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v7.4.15](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v7.4.15), 1 month ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 3 months ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 3 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 5 months ago) - 
+- [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 11 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Tailscale](https://github.com/Ovler-Young/moonlight-qt/pull/1) on [Ovler-Young/moonlight-qt](https://github.com/Ovler-Young/moonlight-qt) (1 day ago)
+- [Tailscale](https://github.com/Ovler-Young/moonlight-qt/pull/1) on [Ovler-Young/moonlight-qt](https://github.com/Ovler-Young/moonlight-qt) (2 days ago)
 - [Add History migration](https://github.com/jiz4oh/efb-telegram-master/pull/4) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (1 week ago)
 - [Fix class topic assoc has no id member](https://github.com/jiz4oh/efb-telegram-master/pull/3) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (1 day ago)
+- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (2 days ago)
 - [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (2 months ago)
 - [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner (3 months ago)
 
