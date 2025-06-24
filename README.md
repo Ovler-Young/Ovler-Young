@@ -33,13 +33,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Tailscale](https://github.com/Ovler-Young/moonlight-qt/pull/1) on [Ovler-Young/moonlight-qt](https://github.com/Ovler-Young/moonlight-qt) (6 days ago)
-- [Add History migration](https://github.com/jiz4oh/efb-telegram-master/pull/4) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (2 weeks ago)
-- [Fix class topic assoc has no id member](https://github.com/jiz4oh/efb-telegram-master/pull/3) on [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) (2 weeks ago)
+- [feat: add pin_chat_message method with retry decorators in TelegramBo…](https://github.com/Ovler-Young/efb-telegram-master/pull/9) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Add Rate Limit #7](https://github.com/Ovler-Young/efb-telegram-master/pull/8) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Add Rate Limit](https://github.com/Ovler-Young/efb-telegram-master/pull/7) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (6 days ago)
+- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (1 week ago)
 - [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (2 months ago)
 - [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner (3 months ago)
 
