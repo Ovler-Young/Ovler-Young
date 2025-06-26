@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pin_chat_message method with retry decorators in TelegramBo…](https://github.com/Ovler-Young/efb-telegram-master/pull/9) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
-- [Add Rate Limit #7](https://github.com/Ovler-Young/efb-telegram-master/pull/8) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
-- [Add Rate Limit](https://github.com/Ovler-Young/efb-telegram-master/pull/7) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 days ago)
+- [feat: add pin_chat_message method with retry decorators in TelegramBo…](https://github.com/Ovler-Young/efb-telegram-master/pull/9) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 days ago)
+- [Add Rate Limit #7](https://github.com/Ovler-Young/efb-telegram-master/pull/8) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 days ago)
+- [Add Rate Limit](https://github.com/Ovler-Young/efb-telegram-master/pull/7) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (3 days ago)
 
 #### ⭐ Recent Stars
 
