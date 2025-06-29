@@ -29,17 +29,17 @@
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 3 months ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 3 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 6 months ago) - 
-- [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 11 months ago) - 
+- [Ovler-Young/Torrent2Bangumi](https://github.com/Ovler-Young/Torrent2Bangumi) ([v1.0.0](https://github.com/Ovler-Young/Torrent2Bangumi/releases/tag/v1.0.0), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pin_chat_message method with retry decorators in TelegramBo…](https://github.com/Ovler-Young/efb-telegram-master/pull/9) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (4 days ago)
-- [Add Rate Limit #7](https://github.com/Ovler-Young/efb-telegram-master/pull/8) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (4 days ago)
-- [Add Rate Limit](https://github.com/Ovler-Young/efb-telegram-master/pull/7) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (5 days ago)
+- [feat: add pin_chat_message method with retry decorators in TelegramBo…](https://github.com/Ovler-Young/efb-telegram-master/pull/9) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (5 days ago)
+- [Add Rate Limit #7](https://github.com/Ovler-Young/efb-telegram-master/pull/8) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (5 days ago)
+- [Add Rate Limit](https://github.com/Ovler-Young/efb-telegram-master/pull/7) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (2 days ago)
+- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (3 days ago)
 - [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (1 week ago)
 - [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (2 months ago)
 
