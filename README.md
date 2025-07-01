@@ -33,14 +33,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pin_chat_message method with retry decorators in TelegramBo…](https://github.com/Ovler-Young/efb-telegram-master/pull/9) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (6 days ago)
-- [Add Rate Limit #7](https://github.com/Ovler-Young/efb-telegram-master/pull/8) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (6 days ago)
+- [feat: add pin_chat_message method with retry decorators in TelegramBo…](https://github.com/Ovler-Young/efb-telegram-master/pull/9) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
+- [Add Rate Limit #7](https://github.com/Ovler-Young/efb-telegram-master/pull/8) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 - [Add Rate Limit](https://github.com/Ovler-Young/efb-telegram-master/pull/7) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (4 days ago)
-- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (1 week ago)
+- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (5 days ago)
+- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (2 weeks ago)
 - [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (2 months ago)
 
 #### 👯 Check out some of my recent followers
