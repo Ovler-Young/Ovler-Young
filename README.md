@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (5 days ago)
+- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (6 days ago)
 - [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (2 weeks ago)
 - [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (2 months ago)
 
