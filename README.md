@@ -25,22 +25,22 @@
 
 #### 🔭 Latest releases with my code
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.6](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.6), today) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.29](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.29), today) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 3 months ago) - 
-- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 3 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.7](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.7), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.29](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.29), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 4 months ago) - 
+- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 4 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Monkey patch own message](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/6) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (today)
-- [File download error log, and add retry](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/5) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (today)
-- [Automatically mark as read](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/4) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 day ago)
+- [Monkey patch own message](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/6) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 day ago)
+- [File download error log, and add retry](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/5) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 day ago)
+- [Automatically mark as read](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/4) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (2 weeks ago)
-- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (4 weeks ago)
+- [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (3 weeks ago)
+- [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (1 month ago)
 - [Prejudice-Studio/Telegram-Jellyfin-Bot](https://github.com/Prejudice-Studio/Telegram-Jellyfin-Bot) - A Telegram Jellyfin Bot (3 months ago)
 
 #### 👯 Check out some of my recent followers
