@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.30](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.30), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.8](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.8), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.32](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.32), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.8](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.8), 3 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v2.12.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v2.12.2), 4 months ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 4 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Fix high connection counts and fix database quit took forever](https://github.com/Ovler-Young/efb-telegram-master/pull/12) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
-- [Monkey patch own message](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/6) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (4 days ago)
-- [File download error log, and add retry](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/5) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (4 days ago)
+- [New Rate Limit](https://github.com/Ovler-Young/efb-telegram-master/pull/13) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Fix high connection counts and fix database quit took forever](https://github.com/Ovler-Young/efb-telegram-master/pull/12) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 days ago)
+- [Monkey patch own message](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/6) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (5 days ago)
 
 #### ⭐ Recent Stars
 
