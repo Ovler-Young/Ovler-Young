@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.11](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.11), today) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.40](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.40), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 days ago) - 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.11](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.11), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.0.40](https://github.com/wushuo894/ani-rss/releases/tag/v2.0.40), 2 days ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 1 week ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.4](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.4), 4 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Related](https://github.com/icedata-top/hantang-dynamic/pull/5) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (6 days ago)
-- [refactor: reorganize type imports and update linter rules](https://github.com/icedata-top/hantang-dynamic/pull/4) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (6 days ago)
-- [Lint](https://github.com/icedata-top/hantang-dynamic/pull/3) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (6 days ago)
+- [Related](https://github.com/icedata-top/hantang-dynamic/pull/5) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 week ago)
+- [refactor: reorganize type imports and update linter rules](https://github.com/icedata-top/hantang-dynamic/pull/4) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 week ago)
+- [Lint](https://github.com/icedata-top/hantang-dynamic/pull/3) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 week ago)
 
 #### ⭐ Recent Stars
 
