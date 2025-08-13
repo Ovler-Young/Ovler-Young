@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases with my code
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.12](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.12), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.1.8](https://github.com/wushuo894/ani-rss/releases/tag/v2.1.8), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.5](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.5), 2 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.1.9](https://github.com/wushuo894/ani-rss/releases/tag/v2.1.9), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.12](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.12), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.5](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.5), 3 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 2 weeks ago) - 
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 7 months ago) - 
 
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) - Make every request from a separate IPv6 address. (2 weeks ago)
+- [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) - Make every request from a separate IPv6 address. (3 weeks ago)
 - [shejialuo/efb-qq-plugin-napcat](https://github.com/shejialuo/efb-qq-plugin-napcat) -  (1 month ago)
 - [qiin2333/moonlight-qt](https://github.com/qiin2333/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (1 month ago)
 
