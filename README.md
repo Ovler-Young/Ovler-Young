@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/util-scripts](https://github.com/Ovler-Young/util-scripts) - Utility Scripts
 - [Ovler-Young/telegram-mail-bot](https://github.com/Ovler-Young/telegram-mail-bot) - A Telegram bot that retrieves the newest email periodically and sends them to you as chat messages.
 - [Ovler-Young/binlog-recovery](https://github.com/Ovler-Young/binlog-recovery) - Recover deleted or updated data from MySQL binlog files with ease
 - [Ovler-Young/y-router](https://github.com/Ovler-Young/y-router) - A Simple Proxy enabling Claude Code to work with OpenRouter
 - [Ovler-Young/SideJITServer](https://github.com/Ovler-Young/SideJITServer) - A JIT enabler for iOS 17 with a Windows/macOS computer on the same WiFi!
 - [Ovler-Young/nue](https://github.com/Ovler-Young/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
-- [Ovler-Young/meilisync](https://github.com/Ovler-Young/meilisync) - Realtime sync data from MySQL/PostgreSQL/MongoDB to Meilisearch
 - ---
 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) - 
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.1.9](https://github.com/wushuo894/ani-rss/releases/tag/v2.1.9), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.12](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.12), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.5](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.5), 3 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.1.10](https://github.com/wushuo894/ani-rss/releases/tag/v2.1.10), 1 day ago) - 自动追番、订阅、下载 蜜柑RSS动漫
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v8.0.12](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v8.0.12), 3 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.5](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.5), 4 days ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 2 weeks ago) - 
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add downloadURL and updateURL](https://github.com/baobao1270/util-scripts/pull/3) on [baobao1270/util-scripts](https://github.com/baobao1270/util-scripts) (1 day ago)
 - [Related](https://github.com/icedata-top/hantang-dynamic/pull/5) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 weeks ago)
 - [refactor: reorganize type imports and update linter rules](https://github.com/icedata-top/hantang-dynamic/pull/4) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 weeks ago)
-- [Lint](https://github.com/icedata-top/hantang-dynamic/pull/3) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
