@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
-- [Ovler-Young/Surge](https://github.com/Ovler-Young/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 - [Ovler-Young/MiraiGo](https://github.com/Ovler-Young/MiraiGo) - qq协议的golang实现, 移植于mirai
 - [Ovler-Young/go-cqhttp](https://github.com/Ovler-Young/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 - [Ovler-Young/telegram-mail-bot](https://github.com/Ovler-Young/telegram-mail-bot) - A Telegram bot that retrieves the newest email periodically and sends them to you as chat messages.
 - [Ovler-Young/binlog-recovery](https://github.com/Ovler-Young/binlog-recovery) - Recover deleted or updated data from MySQL binlog files with ease
-- [Ovler-Young/SideJITServer](https://github.com/Ovler-Young/SideJITServer) - A JIT enabler for iOS 17 with a Windows/macOS computer on the same WiFi!
+- [Ovler-Young/meilisync](https://github.com/Ovler-Young/meilisync) - Realtime sync data from MySQL/PostgreSQL/MongoDB to Meilisearch
+- [Ovler-Young/neo-landsearch](https://github.com/Ovler-Young/neo-landsearch) - Yet another frontend for Uglysearch with neobrutalism design
 - ---
 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases with my code
 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.2.12](https://github.com/wushuo894/ani-rss/releases/tag/v2.2.12), 2 days ago) - 基于RSS自动追番、订阅、下载
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.59.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.59.2), 3 days ago) - 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.0.7](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.0.7), 4 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.59.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.59.3), today) - 
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.2.12](https://github.com/wushuo894/ani-rss/releases/tag/v2.2.12), 3 days ago) - 基于RSS自动追番、订阅、下载
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.0.7](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.0.7), 5 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.8](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.8), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 2 months ago) - 
 
@@ -45,11 +45,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [NapacXX](https://github.com/NapacXX)
+- [Baili-Xuanqi](https://github.com/Baili-Xuanqi)
+- [ChillingSpider](https://github.com/ChillingSpider)
 - [alikia2x](https://github.com/alikia2x)
 - [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
-- [markwhitey](https://github.com/markwhitey)
-- [Yazs-17](https://github.com/Yazs-17)
 
 #### 💬 Feedback
 
