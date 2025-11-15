@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.59.13](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.59.13), today) - 
-- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.4.5](https://github.com/wushuo894/ani-rss/releases/tag/v2.4.5), 1 day ago) - 基于RSS自动追番、订阅、下载
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.59.13](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.59.13), 1 day ago) - 
+- [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) ([v2.4.5](https://github.com/wushuo894/ani-rss/releases/tag/v2.4.5), 2 days ago) - 基于RSS自动追番、订阅、下载
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.0.10](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.0.10), 2 weeks ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.9](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.9), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 3 months ago) - 
@@ -40,7 +40,7 @@
 #### ⭐ Recent Stars
 
 - [evgo2017/Office2PDF-dotnet](https://github.com/evgo2017/Office2PDF-dotnet) - 使用 .net 重新实现 Office2PDF 版本 (3 weeks ago)
-- [chunzhimoe/mistral.ai_umi_plugin](https://github.com/chunzhimoe/mistral.ai_umi_plugin) - umi ocr using mistral.ai (4 weeks ago)
+- [chunzhimoe/mistral.ai_umi_plugin](https://github.com/chunzhimoe/mistral.ai_umi_plugin) - umi ocr using mistral.ai (1 month ago)
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (1 month ago)
 
 #### 👯 Check out some of my recent followers
