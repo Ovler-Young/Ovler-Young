@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
+- [icedata-top/hantang-add](https://github.com/icedata-top/hantang-add) - 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
-- [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-- [Ovler-Young/blog](https://github.com/Ovler-Young/blog) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.1.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.1.2), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.2), 3 days ago) - 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.1.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.1.2), 3 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.2), 4 days ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.9](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.9), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 4 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 10 months ago) - 我的音乐精灵
