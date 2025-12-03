@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/biliTickerBuy](https://github.com/Ovler-Young/biliTickerBuy) - b站会员购购票辅助工具-重构
 - [Ovler-Young/DeepTabular](https://github.com/Ovler-Young/DeepTabular) - Mambular is a Python package that simplifies tabular deep learning by providing a suite of models for regression, classification, and distributional regression tasks. It includes models such as Mambular, TabM, FT-Transformer, TabulaRNN, TabTransformer, and tabular ResNets.
 - [Ovler-Young/meiliisland](https://github.com/Ovler-Young/meiliisland) - Import entries from island archive(mongodb) into MeiliSearch
 - [Ovler-Young/melody](https://github.com/Ovler-Young/melody) - 我的音乐精灵
 - [Ovler-Young/webClip](https://github.com/Ovler-Young/webClip) - generate a signed webclip file online for ios 
 - [Ovler-Young/MiraiGo](https://github.com/Ovler-Young/MiraiGo) - qq协议的golang实现, 移植于mirai
-- [Ovler-Young/go-cqhttp](https://github.com/Ovler-Young/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 - ---
 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.4), 3 days ago) - 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.1.4](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.1.4), 5 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.1.5](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.1.5), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.4), 4 days ago) - 
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.9](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.9), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 4 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 10 months ago) - 我的音乐精灵
