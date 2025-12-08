@@ -6,17 +6,17 @@
 #### 👷 Check out what I'm currently working on in orgnizations!
 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
-- [icedata-top/biliproxy](https://github.com/icedata-top/biliproxy) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/notebookLM-mindmap-extractor](https://github.com/Ovler-Young/notebookLM-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer
+- [Ovler-Young/nmbxd-EX](https://github.com/Ovler-Young/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/biliTickerBuy](https://github.com/Ovler-Young/biliTickerBuy) - b站会员购购票辅助工具-重构
 - [Ovler-Young/DeepTabular](https://github.com/Ovler-Young/DeepTabular) - Mambular is a Python package that simplifies tabular deep learning by providing a suite of models for regression, classification, and distributional regression tasks. It includes models such as Mambular, TabM, FT-Transformer, TabulaRNN, TabTransformer, and tabular ResNets.
 - [Ovler-Young/meiliisland](https://github.com/Ovler-Young/meiliisland) - Import entries from island archive(mongodb) into MeiliSearch
 - [Ovler-Young/melody](https://github.com/Ovler-Young/melody) - 我的音乐精灵
-- [Ovler-Young/webClip](https://github.com/Ovler-Young/webClip) - generate a signed webclip file online for ios 
-- [Ovler-Young/MiraiGo](https://github.com/Ovler-Young/MiraiGo) - qq协议的golang实现, 移植于mirai
 - ---
 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
@@ -25,31 +25,31 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.7](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.7), 2 days ago) - 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.1.5](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.1.5), 5 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.7](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.7), 3 days ago) - 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.1.5](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.1.5), 6 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.9](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.9), 1 month ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 4 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 10 months ago) - 我的音乐精灵
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Implement markdown export](https://github.com/maciusman/nexus-mindmap-extractor/pull/1) on [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) (today)
+- [在ctrl摁下时候，在新标签页打开链接](https://github.com/SayaGoodBye/nmbxd-EX/pull/1) on [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) (1 day ago)
 - [Add onlyCreatedPlaylists option to filter cloud sync to user-created playlists](https://github.com/foamzou/melody/pull/167) on [foamzou/melody](https://github.com/foamzou/melody) (1 month ago)
-- [Send as file](https://github.com/NyaMisty/telegram-mail-bot/pull/3) on [NyaMisty/telegram-mail-bot](https://github.com/NyaMisty/telegram-mail-bot) (1 month ago)
-- [More recent updates](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/8) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer (today)
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验 (1 day ago)
 - [evgo2017/Office2PDF-dotnet](https://github.com/evgo2017/Office2PDF-dotnet) - 使用 .net 重新实现 Office2PDF 版本 (1 month ago)
-- [chunzhimoe/mistral.ai_umi_plugin](https://github.com/chunzhimoe/mistral.ai_umi_plugin) - umi ocr using mistral.ai (1 month ago)
-- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [SayaGoodBye](https://github.com/SayaGoodBye)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [NapacXX](https://github.com/NapacXX)
 - [Baili-Xuanqi](https://github.com/Baili-Xuanqi)
-- [ChillingSpider](https://github.com/ChillingSpider)
 
 #### 💬 Feedback
 
