@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.8](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.8), today) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.8](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.8), 1 day ago) - 
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.2.2), 1 week ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.9](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.9), 2 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 4 months ago) - 
@@ -41,7 +41,7 @@
 
 - [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer (1 week ago)
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验 (1 week ago)
-- [evgo2017/Office2PDF-dotnet](https://github.com/evgo2017/Office2PDF-dotnet) - 使用 .net 重新实现 Office2PDF 版本 (1 month ago)
+- [evgo2017/Office2PDF-dotnet](https://github.com/evgo2017/Office2PDF-dotnet) - 使用 .net 重新实现 Office2PDF 版本 (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
