@@ -11,9 +11,9 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/biliTickerBuy](https://github.com/Ovler-Young/biliTickerBuy) - b站会员购购票辅助工具
 - [Ovler-Young/notebookLM-mindmap-extractor](https://github.com/Ovler-Young/notebookLM-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer
 - [Ovler-Young/nmbxd-EX](https://github.com/Ovler-Young/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [Ovler-Young/biliTickerBuy](https://github.com/Ovler-Young/biliTickerBuy) - b站会员购购票辅助工具-重构
 - [Ovler-Young/DeepTabular](https://github.com/Ovler-Young/DeepTabular) - Mambular is a Python package that simplifies tabular deep learning by providing a suite of models for regression, classification, and distributional regression tasks. It includes models such as Mambular, TabM, FT-Transformer, TabulaRNN, TabTransformer, and tabular ResNets.
 - [Ovler-Young/meiliisland](https://github.com/Ovler-Young/meiliisland) - Import entries from island archive(mongodb) into MeiliSearch
 - [Ovler-Young/melody](https://github.com/Ovler-Young/melody) - 我的音乐精灵
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.8](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.8), 3 days ago) - 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.2.2](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.2.2), 1 week ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.9](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.9), today) - 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.2.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.2.3), 1 day ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [Losses/rune](https://github.com/Losses/rune) ([v2.0.0-alpha.9](https://github.com/Losses/rune/releases/tag/v2.0.0-alpha.9), 2 months ago) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 4 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 11 months ago) - 我的音乐精灵
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Implement markdown export](https://github.com/maciusman/nexus-mindmap-extractor/pull/1) on [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) (2 weeks ago)
-- [在ctrl摁下时候，在新标签页打开链接](https://github.com/SayaGoodBye/nmbxd-EX/pull/1) on [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) (2 weeks ago)
-- [Add onlyCreatedPlaylists option to filter cloud sync to user-created playlists](https://github.com/foamzou/melody/pull/167) on [foamzou/melody](https://github.com/foamzou/melody) (1 month ago)
+- [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (today)
+- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (today)
+- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (today)
 
 #### ⭐ Recent Stars
 
