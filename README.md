@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.9](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.9), 1 day ago) - 
-- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.2.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.2.3), 2 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.60.9](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.60.9), 2 days ago) - 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) ([v9.2.3](https://github.com/PBH-BTN/PeerBanHelper/releases/tag/v9.2.3), 3 days ago) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 5 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 11 months ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (1 day ago)
-- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (1 day ago)
-- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (1 day ago)
+- [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (2 days ago)
+- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (2 days ago)
+- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (2 days ago)
 
 #### ⭐ Recent Stars
 
