@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.63.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.63.0), 2 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.63.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.63.0), 3 days ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 5 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (3 weeks ago)
-- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (3 weeks ago)
-- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (3 weeks ago)
+- [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (4 weeks ago)
+- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (4 weeks ago)
+- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
