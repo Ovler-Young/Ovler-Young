@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [Ovler-Young/efb-wechat-mprss](https://github.com/Ovler-Young/efb-wechat-mprss) - 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
 - [icedata-top/biliproxy](https://github.com/icedata-top/biliproxy) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -19,13 +19,13 @@
 - [Ovler-Young/meiliisland](https://github.com/Ovler-Young/meiliisland) - Import entries from island archive(mongodb) into MeiliSearch
 - ---
 
+- [Ovler-Young/efb-wechat-mprss](https://github.com/Ovler-Young/efb-wechat-mprss) - 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
 - [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) - 
-- [Ovler-Young/Document](https://github.com/Ovler-Young/Document) - Document of what I developed
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.63.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.63.0), 3 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.0), today) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 5 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - ClaudeCode Workflow Studio (1 week ago)
+- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC(Claude code / gthub Copilot) Workflow Studio (2 weeks ago)
 - [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer (1 month ago)
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验 (1 month ago)
 
