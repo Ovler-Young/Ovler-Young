@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.0), today) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.0), 1 day ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 5 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -33,13 +33,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (4 weeks ago)
-- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (4 weeks ago)
-- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (4 weeks ago)
+- [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (1 month ago)
+- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (1 month ago)
+- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC(Claude code / gthub Copilot) Workflow Studio (2 weeks ago)
+- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio (2 weeks ago)
 - [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer (1 month ago)
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验 (1 month ago)
 
