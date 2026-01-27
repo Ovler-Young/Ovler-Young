@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.1), 2 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.1), 3 days ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
