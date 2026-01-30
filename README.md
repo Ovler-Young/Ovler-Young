@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.2), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.3), today) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
+- [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. (1 day ago)
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio (3 weeks ago)
 - [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer (1 month ago)
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
