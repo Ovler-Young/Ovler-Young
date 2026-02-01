@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/telegram-tt](https://github.com/Ovler-Young/telegram-tt) - Telegram Web A, GPL v3
 - [Ovler-Young/StreamCap](https://github.com/Ovler-Young/StreamCap) - Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码
 - [Ovler-Young/biliTickerBuy](https://github.com/Ovler-Young/biliTickerBuy) - b站会员购购票辅助工具
 - [Ovler-Young/notebookLM-mindmap-extractor](https://github.com/Ovler-Young/notebookLM-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer
 - [Ovler-Young/nmbxd-EX](https://github.com/Ovler-Young/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DeepTabular](https://github.com/Ovler-Young/DeepTabular) - Mambular is a Python package that simplifies tabular deep learning by providing a suite of models for regression, classification, and distributional regression tasks. It includes models such as Mambular, TabM, FT-Transformer, TabulaRNN, TabTransformer, and tabular ResNets.
-- [Ovler-Young/meiliisland](https://github.com/Ovler-Young/meiliisland) - Import entries from island archive(mongodb) into MeiliSearch
 - ---
 
 - [Ovler-Young/efb-wechat-mprss](https://github.com/Ovler-Young/efb-wechat-mprss) - 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.3), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.3), 2 days ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. (2 days ago)
+- [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. (3 days ago)
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio (3 weeks ago)
 - [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer (1 month ago)
 
