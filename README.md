@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) - 
 - [Ovler-Young/efb-wechat-mprss](https://github.com/Ovler-Young/efb-wechat-mprss) - 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
-- [icedata-top/biliproxy](https://github.com/icedata-top/biliproxy) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.5](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.5), 3 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.64.5](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.64.5), 4 days ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -33,15 +33,15 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 day ago)
+- [ci: add build](https://github.com/icedata-top/hantang-daily/pull/2) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 day ago)
 - [feat: add biliproxy](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/5) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (1 month ago)
-- [Biliproxy](https://github.com/cnbeining/http-proxy-ipv6-pool/pull/1) on [cnbeining/http-proxy-ipv6-pool](https://github.com/cnbeining/http-proxy-ipv6-pool) (1 month ago)
-- [feat: add controller](https://github.com/icedata-top/http-proxy-ipv6-pool/pull/4) on [icedata-top/http-proxy-ipv6-pool](https://github.com/icedata-top/http-proxy-ipv6-pool) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) - Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. (1 week ago)
-- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio (1 month ago)
-- [maciusman/nexus-mindmap-extractor](https://github.com/maciusman/nexus-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer (2 months ago)
+- [RaphllA/2ch-generator](https://github.com/RaphllA/2ch-generator) -  (today)
+- [RaphllA/site-publish](https://github.com/RaphllA/site-publish) -  (today)
+- [RaphllA/twitter-simulator-v2-static](https://github.com/RaphllA/twitter-simulator-v2-static) -  (today)
 
 #### 👯 Check out some of my recent followers
 
