@@ -33,15 +33,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (today)
-- [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (4 days ago)
-- [ci: add build](https://github.com/icedata-top/hantang-daily/pull/2) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (4 days ago)
+- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (1 day ago)
+- [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (5 days ago)
+- [ci: add build](https://github.com/icedata-top/hantang-daily/pull/2) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces (today)
-- [RaphllA/2ch-generator](https://github.com/RaphllA/2ch-generator) -  (3 days ago)
-- [RaphllA/tukuyomi-site](https://github.com/RaphllA/tukuyomi-site) -  (3 days ago)
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces (1 day ago)
+- [RaphllA/2ch-generator](https://github.com/RaphllA/2ch-generator) -  (4 days ago)
+- [RaphllA/tukuyomi-site](https://github.com/RaphllA/tukuyomi-site) -  (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
