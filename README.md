@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.65.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.65.1), today) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.65.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.65.1), 1 day ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -33,15 +33,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (4 days ago)
+- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (5 days ago)
 - [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 week ago)
 - [ci: add build](https://github.com/icedata-top/hantang-daily/pull/2) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ItalyPaleAle/tailsocks](https://github.com/ItalyPaleAle/tailsocks) - Route traffic through Tailscale exit nodes using a local SOCKS5 proxy (2 days ago)
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework (4 days ago)
-- [RaphllA/2ch-generator](https://github.com/RaphllA/2ch-generator) -  (1 week ago)
+- [KartoffelChipss/pelagica](https://github.com/KartoffelChipss/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (today)
+- [ItalyPaleAle/tailsocks](https://github.com/ItalyPaleAle/tailsocks) - Route traffic through Tailscale exit nodes using a local SOCKS5 proxy (3 days ago)
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
