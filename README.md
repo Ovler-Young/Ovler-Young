@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [Ovler-Young/neopoclass](https://github.com/Ovler-Young/neopoclass) - 
 - [Ovler-Young/blog](https://github.com/Ovler-Young/blog) - 
 - [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) - 
-- [Ovler-Young/efb-wechat-mprss](https://github.com/Ovler-Young/efb-wechat-mprss) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -19,13 +19,13 @@
 - [Ovler-Young/nmbxd-EX](https://github.com/Ovler-Young/nmbxd-EX) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - ---
 
+- [Ovler-Young/neopoclass](https://github.com/Ovler-Young/neopoclass) - 
 - [Ovler-Young/efb-wechat-mprss](https://github.com/Ovler-Young/efb-wechat-mprss) - 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) - 
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.65.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.65.1), 2 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.65.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.65.2), today) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -33,15 +33,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (6 days ago)
+- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (1 week ago)
 - [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 week ago)
 - [ci: add build](https://github.com/icedata-top/hantang-daily/pull/2) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [KartoffelChipss/pelagica](https://github.com/KartoffelChipss/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (1 day ago)
-- [ItalyPaleAle/tailsocks](https://github.com/ItalyPaleAle/tailsocks) - Route traffic through Tailscale exit nodes using a local SOCKS5 proxy (4 days ago)
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework (6 days ago)
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM (today)
+- [KartoffelChipss/pelagica](https://github.com/KartoffelChipss/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (2 days ago)
+- [ItalyPaleAle/tailsocks](https://github.com/ItalyPaleAle/tailsocks) - Route traffic through Tailscale exit nodes using a local SOCKS5 proxy (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
