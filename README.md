@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) - 
 - [Ovler-Young/neopoclass](https://github.com/Ovler-Young/neopoclass) - 
 - [Ovler-Young/blog](https://github.com/Ovler-Young/blog) - 
-- [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.65.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.65.3), 1 day ago) - 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 6 months ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.65.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.65.3), 2 days ago) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 7 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
 - [saveweb/biliarchiverbot](https://github.com/saveweb/biliarchiverbot) ([v1.0.0](https://github.com/saveweb/biliarchiverbot/releases/tag/v1.0.0), 2 years ago) - 猫猫的pilipili大bot | Bilibili archiver bot
@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM (3 days ago)
-- [KartoffelChipss/pelagica](https://github.com/KartoffelChipss/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (5 days ago)
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM (4 days ago)
+- [KartoffelChipss/pelagica](https://github.com/KartoffelChipss/pelagica) - An alternative, modern and configurable web frontend for Jellyfin (6 days ago)
 - [ItalyPaleAle/tailsocks](https://github.com/ItalyPaleAle/tailsocks) - Route traffic through Tailscale exit nodes using a local SOCKS5 proxy (1 week ago)
 
 #### 👯 Check out some of my recent followers
