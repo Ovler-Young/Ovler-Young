@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/crossword-generator](https://github.com/Ovler-Young/crossword-generator) - 🎲 A crossword-generator
 - [Ovler-Young/TierMaker](https://github.com/Ovler-Young/TierMaker) - 
 - [Ovler-Young/media-get](https://github.com/Ovler-Young/media-get) - Get the media through the url
 - [Ovler-Young/telegram-tt](https://github.com/Ovler-Young/telegram-tt) - Telegram Web A, GPL v3
 - [Ovler-Young/StreamCap](https://github.com/Ovler-Young/StreamCap) - Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码
 - [Ovler-Young/biliTickerBuy](https://github.com/Ovler-Young/biliTickerBuy) - b站会员购购票辅助工具
-- [Ovler-Young/notebookLM-mindmap-extractor](https://github.com/Ovler-Young/notebookLM-mindmap-extractor) - Chrome Extension for extracting and exporting Mind Maps from NotebookLM to JSON/CSV with an interactive viewer
 - ---
 
 - [Ovler-Young/neopoclass](https://github.com/Ovler-Young/neopoclass) - 
@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.0), 4 days ago) - 
-- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 6 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.0), 5 days ago) - 
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 week ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 7 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
 - [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (3 days ago)
-- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (6 days ago)
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM (1 week ago)
+- [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) - Stop losing context to large outputs. (1 day ago)
+- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (4 days ago)
+- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
