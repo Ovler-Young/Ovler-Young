@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.0), 5 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.0), 6 days ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 week ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 7 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) - Stop losing context to large outputs. (1 day ago)
-- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (4 days ago)
+- [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) - Stop losing context to large outputs. (2 days ago)
+- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (5 days ago)
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
