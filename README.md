@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.0), 6 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.1), today) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 week ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 7 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
@@ -33,14 +33,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (2 weeks ago)
+- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (3 weeks ago)
 - [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (3 weeks ago)
 - [ci: add build](https://github.com/icedata-top/hantang-daily/pull/2) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) - Stop losing context to large outputs. (2 days ago)
-- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (5 days ago)
+- [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) - Stop losing context to large outputs. (3 days ago)
+- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (6 days ago)
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
