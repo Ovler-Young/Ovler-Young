@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.4), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.4), 2 days ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 2 weeks ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 7 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Streamlit](https://github.com/saveweb/huabar_draws_takeout/pull/2) on [saveweb/huabar_draws_takeout](https://github.com/saveweb/huabar_draws_takeout) (3 days ago)
+- [Streamlit](https://github.com/saveweb/huabar_draws_takeout/pull/2) on [saveweb/huabar_draws_takeout](https://github.com/saveweb/huabar_draws_takeout) (4 days ago)
 - [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (1 month ago)
 - [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 month ago)
 
