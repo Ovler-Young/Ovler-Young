@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/qwen3-asr.cpp](https://github.com/Ovler-Young/qwen3-asr.cpp) - Implementation of Qwen3-ASR-0.6B in GGML
 - [Ovler-Young/Action-237-immortalwrt-mt798x-24.10](https://github.com/Ovler-Young/Action-237-immortalwrt-mt798x-24.10) - 237大佬immortalwrt24.10源码（6.6内核+闭源MTK驱动）编译360T7 + JCG Q30PRO + CMCC-A10(ZN-M5)固件。主路由含passwall、ddns、vlmcsd模块。
 - [Ovler-Young/audiopipe](https://github.com/Ovler-Young/audiopipe) - Fast cross-platform speech-to-text inference on consumer device in Rust. Qwen3-ASR, Metal, Vulkan.
 - [Ovler-Young/crossword-generator](https://github.com/Ovler-Young/crossword-generator) - 🎲 A crossword-generator
 - [Ovler-Young/TierMaker](https://github.com/Ovler-Young/TierMaker) - 
 - [Ovler-Young/media-get](https://github.com/Ovler-Young/media-get) - Get the media through the url
-- [Ovler-Young/telegram-tt](https://github.com/Ovler-Young/telegram-tt) - Telegram Web A, GPL v3
 - ---
 
 - [Ovler-Young/efb-at-block-middleware](https://github.com/Ovler-Young/efb-at-block-middleware) - 
@@ -25,15 +25,15 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.4), 3 days ago) - 
-- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 2 weeks ago) - 
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.03.15-1811](https://github.com/Ovler-Young/360-T7/releases/tag/2026.03.15-1811), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.66.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.66.4), 4 days ago) - 
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 3 weeks ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 7 months ago) - 
 - [foamzou/melody](https://github.com/foamzou/melody) ([v1.1.1](https://github.com/foamzou/melody/releases/tag/v1.1.1), 1 year ago) - 我的音乐精灵
-- [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) ([v0.0.2](https://github.com/icedata-top/hantang-api/releases/tag/v0.0.2), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Streamlit](https://github.com/saveweb/huabar_draws_takeout/pull/2) on [saveweb/huabar_draws_takeout](https://github.com/saveweb/huabar_draws_takeout) (5 days ago)
+- [Streamlit](https://github.com/saveweb/huabar_draws_takeout/pull/2) on [saveweb/huabar_draws_takeout](https://github.com/saveweb/huabar_draws_takeout) (6 days ago)
 - [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (1 month ago)
 - [feat: more proxy executor](https://github.com/icedata-top/hantang-daily/pull/3) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 month ago)
 
@@ -41,7 +41,7 @@
 
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - MCP is the protocol for tool access. We're the virtualization layer for context. (2 weeks ago)
 - [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (2 weeks ago)
-- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (2 weeks ago)
+- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
