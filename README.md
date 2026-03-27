@@ -6,8 +6,8 @@
 #### 👷 Check out what I'm currently working on in orgnizations!
 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) - 冰数据“寒棠”后端，使用Java
 - [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) - 
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) - 冰数据“寒棠”后端，使用Java
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.67.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.67.0), 2 days ago) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 6 days ago) - 冰数据“寒棠”后端，使用Java
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.67.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.67.1), today) - 
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 1 week ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.03.15-1811](https://github.com/Ovler-Young/360-T7/releases/tag/2026.03.15-1811), 1 week ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 month ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 8 months ago) - 
