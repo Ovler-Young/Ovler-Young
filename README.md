@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) -  Use bilix to archive BiliBili video with metadata and danmaku.
+- [icedata-top/hantang-api](https://github.com/icedata-top/hantang-api) - 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
-- [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) - 冰数据“寒棠”后端，使用Java
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.67.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.67.1), today) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.67.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.67.1), 1 day ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 1 week ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.03.15-1811](https://github.com/Ovler-Young/360-T7/releases/tag/2026.03.15-1811), 1 week ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 month ago) - 
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
+- [sukiaDp/SAMpler](https://github.com/sukiaDp/SAMpler) - SAM3 is literally right there. Stop drawing boxes by hand. Auto-annotate with text prompts, train YOLO, ship it. (1 day ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context. (3 weeks ago)
-- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (4 weeks ago)
-- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (1 month ago)
+- [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
