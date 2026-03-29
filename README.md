@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.67.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.67.1), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.67.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.67.1), 2 days ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 1 week ago) - 冰数据“寒棠”后端，使用Java
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.03.15-1811](https://github.com/Ovler-Young/360-T7/releases/tag/2026.03.15-1811), 1 week ago) - 
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.03.15-1811](https://github.com/Ovler-Young/360-T7/releases/tag/2026.03.15-1811), 2 weeks ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 month ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 8 months ago) - 
 
@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [sukiaDp/SAMpler](https://github.com/sukiaDp/SAMpler) - SAM3 is literally right there. Stop drawing boxes by hand. Auto-annotate with text prompts, train YOLO, ship it. (1 day ago)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context. (3 weeks ago)
+- [sukiaDp/SAMpler](https://github.com/sukiaDp/SAMpler) - SAM3 is literally right there. Stop drawing boxes by hand. Auto-annotate with text prompts, train YOLO, ship it. (2 days ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context. (4 weeks ago)
 - [lus720/TierMaker](https://github.com/lus720/TierMaker) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
