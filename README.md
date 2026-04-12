@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.68.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.68.1), 2 days ago) - 
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 5 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.68.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.68.1), 3 days ago) - 
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 6 days ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 3 weeks ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 month ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 8 months ago) - 
@@ -35,7 +35,7 @@
 
 - [v4](https://github.com/icedata-top/hantang-dynamic/pull/6) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 week ago)
 - [Streamlit](https://github.com/saveweb/huabar_draws_takeout/pull/2) on [saveweb/huabar_draws_takeout](https://github.com/saveweb/huabar_draws_takeout) (1 month ago)
-- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (1 month ago)
+- [feat: support bilibili fetch for festival](https://github.com/foamzou/media-get/pull/24) on [foamzou/media-get](https://github.com/foamzou/media-get) (2 months ago)
 
 #### ⭐ Recent Stars
 
