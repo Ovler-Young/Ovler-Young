@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) -  Use bilix to archive BiliBili video with metadata and danmaku.
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) - 
-- [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) -  Use bilix to archive BiliBili video with metadata and danmaku.
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.68.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.68.3), 2 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.68.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.68.3), 3 days ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 week ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 4 weeks ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 1 month ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/19) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [Try old ver](https://github.com/Ovler-Young/efb-telegram-master/pull/18) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [feat: backfill overwrite](https://github.com/Ovler-Young/efb-telegram-master/pull/17) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [fix: pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/20) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [Pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/19) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [Try old ver](https://github.com/Ovler-Young/efb-telegram-master/pull/18) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -45,7 +45,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [seckinyasar](https://github.com/seckinyasar)
+- [STAR-10086](https://github.com/STAR-10086)
 - [emilycodestar](https://github.com/emilycodestar)
 - [Carrington-dev](https://github.com/Carrington-dev)
 - [SayaGoodBye](https://github.com/SayaGoodBye)
