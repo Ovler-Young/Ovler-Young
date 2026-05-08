@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.70.5](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.70.5), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.70.5](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.70.5), 2 days ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 1 month ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 2 months ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/20) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 weeks ago)
-- [Pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/19) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 weeks ago)
-- [Try old ver](https://github.com/Ovler-Young/efb-telegram-master/pull/18) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 weeks ago)
+- [fix: pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/20) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (3 weeks ago)
+- [Pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/19) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (3 weeks ago)
+- [Try old ver](https://github.com/Ovler-Young/efb-telegram-master/pull/18) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
