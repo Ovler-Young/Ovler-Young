@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.2), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.2), 2 days ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 1 month ago) - 冰数据“寒棠”后端，使用Java
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 2 months ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 2 months ago) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([3.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/3.0.0), 9 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [.](https://github.com/GottenHeave/clewdr/pull/4) on [GottenHeave/clewdr](https://github.com/GottenHeave/clewdr) (1 day ago)
 - [fix: pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/20) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 month ago)
 - [Pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/19) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 month ago)
-- [Try old ver](https://github.com/Ovler-Young/efb-telegram-master/pull/18) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (2 weeks ago)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (3 weeks ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 month ago)
 - [sukiaDp/SAMpler](https://github.com/sukiaDp/SAMpler) - SAM3 is literally right there. Stop drawing boxes by hand. Auto-annotate with text prompts, train YOLO, ship it. (1 month ago)
 
