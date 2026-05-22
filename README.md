@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.3), today) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), today) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 2 months ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v1.1.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v1.1.0), 2 months ago) - 
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [.](https://github.com/GottenHeave/clewdr/pull/4) on [GottenHeave/clewdr](https://github.com/GottenHeave/clewdr) (3 days ago)
+- [.](https://github.com/GottenHeave/clewdr/pull/4) on [GottenHeave/clewdr](https://github.com/GottenHeave/clewdr) (4 days ago)
 - [fix: pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/20) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 month ago)
 - [Pytest](https://github.com/Ovler-Young/efb-telegram-master/pull/19) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 month ago)
 
