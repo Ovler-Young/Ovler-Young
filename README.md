@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 1 day ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), 5 days ago) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 2 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 5 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), 6 days ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 2 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade python-telegram-bot to v22](https://github.com/Ovler-Young/efb-telegram-master/pull/21) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (4 days ago)
-- [fix: support Weibo mapp fx links](https://github.com/z-mio/ParseHub/pull/10) on [z-mio/ParseHub](https://github.com/z-mio/ParseHub) (4 days ago)
+- [chore: upgrade python-telegram-bot to v22](https://github.com/Ovler-Young/efb-telegram-master/pull/21) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (5 days ago)
+- [fix: support Weibo mapp fx links](https://github.com/z-mio/ParseHub/pull/10) on [z-mio/ParseHub](https://github.com/z-mio/ParseHub) (5 days ago)
 - [.](https://github.com/GottenHeave/clewdr/pull/4) on [GottenHeave/clewdr](https://github.com/GottenHeave/clewdr) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (4 weeks ago)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 month ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 month ago)
 - [sukiaDp/SAMpler](https://github.com/sukiaDp/SAMpler) - SAM3 is literally right there. Stop drawing boxes by hand. Auto-annotate with text prompts, train YOLO, ship it. (2 months ago)
 
