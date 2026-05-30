@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 3 days ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 6 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 4 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), 1 week ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.03.20-c3adbd6](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.03.20-c3adbd6), 2 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade python-telegram-bot to v22](https://github.com/Ovler-Young/efb-telegram-master/pull/21) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (6 days ago)
-- [fix: support Weibo mapp fx links](https://github.com/z-mio/ParseHub/pull/10) on [z-mio/ParseHub](https://github.com/z-mio/ParseHub) (6 days ago)
-- [.](https://github.com/GottenHeave/clewdr/pull/4) on [GottenHeave/clewdr](https://github.com/GottenHeave/clewdr) (1 week ago)
+- [Add adaptive minute collection loop](https://github.com/icedata-top/hantang-dynamic/pull/7) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
+- [chore: upgrade python-telegram-bot to v22](https://github.com/Ovler-Young/efb-telegram-master/pull/21) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
+- [fix: support Weibo mapp fx links](https://github.com/z-mio/ParseHub/pull/10) on [z-mio/ParseHub](https://github.com/z-mio/ParseHub) (1 week ago)
 
 #### ⭐ Recent Stars
 
