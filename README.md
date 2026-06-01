@@ -11,12 +11,12 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
-- [Ovler-Young/fn-sphere](https://github.com/Ovler-Young/fn-sphere) - ⌛ Filter Sphere is a powerful and flexible library for creating dynamic filtering interfaces in your web applications.
-- [Ovler-Young/ParseHub](https://github.com/Ovler-Young/ParseHub) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [Ovler-Young/qwen3-asr.cpp](https://github.com/Ovler-Young/qwen3-asr.cpp) - Implementation of Qwen3-ASR-0.6B in GGML
 - [Ovler-Young/audiopipe](https://github.com/Ovler-Young/audiopipe) - Fast cross-platform speech-to-text inference on consumer device in Rust. Qwen3-ASR, Metal, Vulkan.
 - [Ovler-Young/crossword-generator](https://github.com/Ovler-Young/crossword-generator) - 🎲 A crossword-generator
 - [Ovler-Young/TierMaker](https://github.com/Ovler-Young/TierMaker) - 
+- [Ovler-Young/media-get](https://github.com/Ovler-Young/media-get) - Get the media through the url
+- [Ovler-Young/telegram-tt](https://github.com/Ovler-Young/telegram-tt) - Telegram Web A, GPL v3
 - ---
 
 - [Ovler-Young/efb_qq_image_fallback](https://github.com/Ovler-Young/efb_qq_image_fallback) - 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 5 days ago) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 6 days ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), 1 week ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add adaptive minute collection loop](https://github.com/icedata-top/hantang-dynamic/pull/7) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
-- [chore: upgrade python-telegram-bot to v22](https://github.com/Ovler-Young/efb-telegram-master/pull/21) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
-- [fix: support Weibo mapp fx links](https://github.com/z-mio/ParseHub/pull/10) on [z-mio/ParseHub](https://github.com/z-mio/ParseHub) (1 week ago)
+- [Migrate to python-telegram-bot 22 and improve topic routing](https://github.com/ehForwarderBot/efb-telegram-master/pull/154) on [ehForwarderBot/efb-telegram-master](https://github.com/ehForwarderBot/efb-telegram-master) (1 day ago)
+- [Sync topic avatars to custom emoji](https://github.com/Ovler-Young/efb-telegram-master/pull/23) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [Add adaptive minute collection loop](https://github.com/icedata-top/hantang-dynamic/pull/7) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
 
 #### ⭐ Recent Stars
 
