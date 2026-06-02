@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 6 days ago) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v4.0.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v4.0.0), 1 week ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), 1 week ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate to python-telegram-bot 22 and improve topic routing](https://github.com/ehForwarderBot/efb-telegram-master/pull/154) on [ehForwarderBot/efb-telegram-master](https://github.com/ehForwarderBot/efb-telegram-master) (1 day ago)
-- [Sync topic avatars to custom emoji](https://github.com/Ovler-Young/efb-telegram-master/pull/23) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
-- [Add adaptive minute collection loop](https://github.com/icedata-top/hantang-dynamic/pull/7) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
+- [Migrate to python-telegram-bot 22 and improve topic routing](https://github.com/ehForwarderBot/efb-telegram-master/pull/154) on [ehForwarderBot/efb-telegram-master](https://github.com/ehForwarderBot/efb-telegram-master) (2 days ago)
+- [Sync topic avatars to custom emoji](https://github.com/Ovler-Young/efb-telegram-master/pull/23) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 days ago)
+- [Add adaptive minute collection loop](https://github.com/icedata-top/hantang-dynamic/pull/7) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (3 days ago)
 
 #### ⭐ Recent Stars
 
