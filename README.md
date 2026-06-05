@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.0.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.0.2), today) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v2.3.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v2.3.1), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.0.7](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.0.7), 1 day ago) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v2.3.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v2.3.1), 1 day ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), 1 week ago) - 
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 1 month ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.71.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.71.4), 2 weeks ago) - 
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate daily collection and proxy executor changes](https://github.com/icedata-top/hantang-daily/pull/6) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (today)
-- [fix: handle missing forwarded dynamics](https://github.com/icedata-top/hantang-dynamic/pull/13) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
-- [Stream daily dynamic inserts](https://github.com/icedata-top/hantang-daily/pull/5) on [icedata-top/hantang-daily](https://github.com/icedata-top/hantang-daily) (1 day ago)
+- [perf: align minute sampling cadence](https://github.com/icedata-top/hantang-dynamic/pull/18) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [perf: batch minute sampling](https://github.com/icedata-top/hantang-dynamic/pull/17) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [chore: release v5.0.5](https://github.com/icedata-top/hantang-dynamic/pull/16) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
 
 #### ⭐ Recent Stars
 
