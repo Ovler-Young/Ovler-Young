@@ -25,31 +25,31 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.72.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.72.1), 1 day ago) - 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.1.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.1.0), 2 days ago) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v2.3.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v2.3.1), 3 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.3.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.3.1), today) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.72.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.72.2), today) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v2.3.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v2.3.1), 4 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 2 weeks ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: record logical api error codes](https://github.com/icedata-top/hantang-dynamic/pull/22) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
-- [ci: sync release version from tag](https://github.com/icedata-top/hantang-dynamic/pull/21) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
-- [fix: harden metrics server auth and startup retry](https://github.com/icedata-top/hantang-dynamic/pull/20) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
+- [feat: collect and store video subtitles](https://github.com/icedata-top/hantang-dynamic/pull/25) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [feat: batch repair video detail fetches](https://github.com/icedata-top/hantang-dynamic/pull/24) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [feat: expose gate crossing overview API](https://github.com/icedata-top/hantang-web-backend/pull/3) on [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 month ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 months ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (2 months ago)
 - [sukiaDp/SAMpler](https://github.com/sukiaDp/SAMpler) - SAM3 is literally right there. Stop drawing boxes by hand. Auto-annotate with text prompts, train YOLO, ship it. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [reonokiy](https://github.com/reonokiy)
 - [STAR-10086](https://github.com/STAR-10086)
 - [emilycodestar](https://github.com/emilycodestar)
 - [Carrington-dev](https://github.com/Carrington-dev)
 - [SayaGoodBye](https://github.com/SayaGoodBye)
-- [NapacXX](https://github.com/NapacXX)
 
 #### 💬 Feedback
 
