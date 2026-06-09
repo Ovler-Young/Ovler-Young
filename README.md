@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.3.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.3.1), today) - 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.72.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.72.2), today) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v2.3.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v2.3.1), 4 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.24](https://github.com/z-mio/ParseHub/releases/tag/v2.0.24), 2 weeks ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.0.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.0.0), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.25](https://github.com/z-mio/ParseHub/releases/tag/v2.0.25), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.3.2](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.3.2), 1 day ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.72.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.72.2), 1 day ago) - 
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: collect and store video subtitles](https://github.com/icedata-top/hantang-dynamic/pull/25) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
-- [feat: batch repair video detail fetches](https://github.com/icedata-top/hantang-dynamic/pull/24) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
-- [feat: expose gate crossing overview API](https://github.com/icedata-top/hantang-web-backend/pull/3) on [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) (1 day ago)
+- [feat: collect and store video subtitles](https://github.com/icedata-top/hantang-dynamic/pull/25) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
+- [feat: batch repair video detail fetches](https://github.com/icedata-top/hantang-dynamic/pull/24) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
+- [feat: expose gate crossing overview API](https://github.com/icedata-top/hantang-web-backend/pull/3) on [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) (2 days ago)
 
 #### ⭐ Recent Stars
 
