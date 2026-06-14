@@ -5,18 +5,18 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
-- [saveweb/biliarchiver](https://github.com/saveweb/biliarchiver) -  Use bilix to archive BiliBili video with metadata and danmaku.
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io) - 构建网站快速的Hugo主题，去除了全局侧边栏，以确保高效构建网站。
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) - 
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) - 冰数据“寒棠”后端，使用Java
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
+- [Ovler-Young/CollegesChat.github.io](https://github.com/Ovler-Young/CollegesChat.github.io) - 构建网站快速的Hugo主题，去除了侧边栏，只保留搜索功能，以确保高效构建网站。
+- [Ovler-Young/Yukigram](https://github.com/Ovler-Young/Yukigram) - 64Gram fork (unofficial Telegram Desktop)
 - [Ovler-Young/qwen3-asr.cpp](https://github.com/Ovler-Young/qwen3-asr.cpp) - Implementation of Qwen3-ASR-0.6B in GGML
 - [Ovler-Young/audiopipe](https://github.com/Ovler-Young/audiopipe) - Fast cross-platform speech-to-text inference on consumer device in Rust. Qwen3-ASR, Metal, Vulkan.
 - [Ovler-Young/crossword-generator](https://github.com/Ovler-Young/crossword-generator) - 🎲 A crossword-generator
 - [Ovler-Young/TierMaker](https://github.com/Ovler-Young/TierMaker) - 
-- [Ovler-Young/media-get](https://github.com/Ovler-Young/media-get) - Get the media through the url
-- [Ovler-Young/telegram-tt](https://github.com/Ovler-Young/telegram-tt) - Telegram Web A, GPL v3
 - ---
 
 - [Ovler-Young/efb_qq_image_fallback](https://github.com/Ovler-Young/efb_qq_image_fallback) - 
@@ -25,23 +25,23 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.4.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.4.0), today) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.1.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.1.0), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.29](https://github.com/z-mio/ParseHub/releases/tag/v2.0.29), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.72.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.72.4), today) - 
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.04.06-1127](https://github.com/Ovler-Young/360-T7/releases/tag/2026.04.06-1127), 2 months ago) - 
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 1 day ago) - 冰数据“寒棠”后端，使用Java
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.4.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.4.0), 1 day ago) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.1.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.1.0), 1 day ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.29](https://github.com/z-mio/ParseHub/releases/tag/v2.0.29), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.72.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.72.4), 1 day ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Dev 0402 initial](https://github.com/icedata-top/icedata-web-react/pull/2) on [icedata-top/icedata-web-react](https://github.com/icedata-top/icedata-web-react) (today)
-- [Gate crossings overview](https://github.com/icedata-top/icedata-web-react/pull/1) on [icedata-top/icedata-web-react](https://github.com/icedata-top/icedata-web-react) (today)
-- [feat: collect and store video subtitles](https://github.com/icedata-top/hantang-dynamic/pull/25) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (6 days ago)
+- [Polish web UI, logs, and local state](https://github.com/Ovler-Young/DizzySync/pull/4) on [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) (today)
+- [Show same-province schools in sidebar](https://github.com/CollegesChat/CollegesChat.github.io/pull/5) on [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io) (today)
+- [feat: add Web GUI cron auto-sync](https://github.com/Ovler-Young/DizzySync/pull/3) on [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) (today)
 
 #### ⭐ Recent Stars
 
-- [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) - A macOS app that auto-hides the Dock only when a window would cover it. (today)
-- [moyogii/maclight-qt](https://github.com/moyogii/maclight-qt) - A fork of the popular GameStream client Moonlight focused only on MacOS. (1 day ago)
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 month ago)
+- [Revincx/Yukigram](https://github.com/Revincx/Yukigram) - 64Gram fork (unofficial Telegram Desktop) (1 day ago)
+- [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) - A macOS app that auto-hides the Dock only when a window would cover it. (1 day ago)
+- [moyogii/maclight-qt](https://github.com/moyogii/maclight-qt) - A fork of the popular GameStream client Moonlight focused only on MacOS. (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
