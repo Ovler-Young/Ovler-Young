@@ -11,7 +11,7 @@
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
-- [Ovler-Young/CollegesChat.github.io](https://github.com/Ovler-Young/CollegesChat.github.io) - 构建网站快速的Hugo主题，去除了侧边栏，只保留搜索功能，以确保高效构建网站。
+- [Ovler-Young/maclight-qt](https://github.com/Ovler-Young/maclight-qt) - A fork of the popular GameStream client Moonlight focused only on MacOS.
 - [Ovler-Young/Yukigram](https://github.com/Ovler-Young/Yukigram) - 64Gram fork (unofficial Telegram Desktop)
 - [Ovler-Young/qwen3-asr.cpp](https://github.com/Ovler-Young/qwen3-asr.cpp) - Implementation of Qwen3-ASR-0.6B in GGML
 - [Ovler-Young/audiopipe](https://github.com/Ovler-Young/audiopipe) - Fast cross-platform speech-to-text inference on consumer device in Rust. Qwen3-ASR, Metal, Vulkan.
@@ -25,23 +25,23 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 1 day ago) - 冰数据“寒棠”后端，使用Java
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.4.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.4.0), 1 day ago) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.1.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.1.0), 1 day ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.29](https://github.com/z-mio/ParseHub/releases/tag/v2.0.29), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.72.4](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.72.4), 1 day ago) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.2.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.2.0), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 1 day ago) - 
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 2 days ago) - 冰数据“寒棠”后端，使用Java
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.4.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.4.0), 2 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.29](https://github.com/z-mio/ParseHub/releases/tag/v2.0.29), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 
 #### 🔨 My recent Pull Requests
 
-- [Polish web UI, logs, and local state](https://github.com/Ovler-Young/DizzySync/pull/4) on [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) (today)
-- [Show same-province schools in sidebar](https://github.com/CollegesChat/CollegesChat.github.io/pull/5) on [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io) (today)
-- [feat: add Web GUI cron auto-sync](https://github.com/Ovler-Young/DizzySync/pull/3) on [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) (today)
+- [fix(app): keep desktop file attachment extensions dotted](https://github.com/getpaseo/paseo/pull/1548) on [getpaseo/paseo](https://github.com/getpaseo/paseo) (today)
+- [Fix release artifact filtering and notes](https://github.com/Ovler-Young/DizzySync/pull/11) on [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) (1 day ago)
+- [Fix album playback and local state blockers](https://github.com/Ovler-Young/DizzySync/pull/10) on [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [Revincx/Yukigram](https://github.com/Revincx/Yukigram) - 64Gram fork (unofficial Telegram Desktop) (1 day ago)
-- [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) - A macOS app that auto-hides the Dock only when a window would cover it. (1 day ago)
-- [moyogii/maclight-qt](https://github.com/moyogii/maclight-qt) - A fork of the popular GameStream client Moonlight focused only on MacOS. (2 days ago)
+- [Revincx/Yukigram](https://github.com/Revincx/Yukigram) - 64Gram fork (unofficial Telegram Desktop) (2 days ago)
+- [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) - A macOS app that auto-hides the Dock only when a window would cover it. (2 days ago)
+- [moyogii/maclight-qt](https://github.com/moyogii/maclight-qt) - A fork of the popular GameStream client Moonlight focused only on MacOS. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
