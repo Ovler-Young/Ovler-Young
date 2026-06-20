@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [efbfork/efb_qq_image_fallback](https://github.com/efbfork/efb_qq_image_fallback) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 - [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io) - 构建网站快速的Hugo主题，去除了全局侧边栏，以确保高效构建网站。
-- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -19,37 +19,37 @@
 - [Ovler-Young/TierMaker](https://github.com/Ovler-Young/TierMaker) - 
 - ---
 
-- [Ovler-Young/efb_qq_image_fallback](https://github.com/Ovler-Young/efb_qq_image_fallback) - 
 - [Ovler-Young/km_extractor](https://github.com/Ovler-Young/km_extractor) - 
 - [Ovler-Young/Browser-Based-Survival-Analysis-Studio](https://github.com/Ovler-Young/Browser-Based-Survival-Analysis-Studio) - 
+- [Ovler-Young/efb-at-block-middleware](https://github.com/Ovler-Young/efb-at-block-middleware) - 
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.73.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.73.0), today) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.3.0), 3 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 5 days ago) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 6 days ago) - 冰数据“寒棠”后端，使用Java
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.4.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.4.0), 6 days ago) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.4.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.4.0), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.73.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.73.1), today) - 
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 6 days ago) - 
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 1 week ago) - 冰数据“寒棠”后端，使用Java
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.4.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.4.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Add Docker Web UI deployment](https://github.com/ovlerfork/biliTickerBuy/pull/12) on [ovlerfork/biliTickerBuy](https://github.com/ovlerfork/biliTickerBuy) (today)
-- [Fix task sale time UI layout](https://github.com/ovlerfork/biliTickerBuy/pull/11) on [ovlerfork/biliTickerBuy](https://github.com/ovlerfork/biliTickerBuy) (today)
-- [fix: use Aliyun sampled time for scheduled tasks](https://github.com/ovlerfork/biliTickerBuy/pull/10) on [ovlerfork/biliTickerBuy](https://github.com/ovlerfork/biliTickerBuy) (today)
+- [Fix scheduled start time parsing](https://github.com/ovlerfork/biliTickerBuy/pull/15) on [ovlerfork/biliTickerBuy](https://github.com/ovlerfork/biliTickerBuy) (1 day ago)
+- [Limit ticket preheat prepare to one request](https://github.com/ovlerfork/biliTickerBuy/pull/14) on [ovlerfork/biliTickerBuy](https://github.com/ovlerfork/biliTickerBuy) (1 day ago)
+- [Limit ticket preheat prepare to one request](https://github.com/ovlerfork/biliTickerBuy/pull/13) on [ovlerfork/biliTickerBuy](https://github.com/ovlerfork/biliTickerBuy) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [NekoMirra/biliTickerBuy](https://github.com/NekoMirra/biliTickerBuy) - b站会员购购票辅助工具-重构 (2 days ago)
-- [Revincx/Yukigram](https://github.com/Revincx/Yukigram) - 64Gram fork (unofficial Telegram Desktop) (6 days ago)
-- [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) - A macOS app that auto-hides the Dock only when a window would cover it. (6 days ago)
+- [NekoMirra/biliTickerBuy](https://github.com/NekoMirra/biliTickerBuy) - b站会员购购票辅助工具-重构 (3 days ago)
+- [Revincx/Yukigram](https://github.com/Revincx/Yukigram) - 64Gram fork (unofficial Telegram Desktop) (1 week ago)
+- [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) - A macOS app that auto-hides the Dock only when a window would cover it. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [NekoMirra](https://github.com/NekoMirra)
 - [reonokiy](https://github.com/reonokiy)
 - [STAR-10086](https://github.com/STAR-10086)
 - [emilycodestar](https://github.com/emilycodestar)
 - [Carrington-dev](https://github.com/Carrington-dev)
-- [SayaGoodBye](https://github.com/SayaGoodBye)
 
 #### 💬 Feedback
 
