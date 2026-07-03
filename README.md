@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [ovlerfork/meilisync](https://github.com/ovlerfork/meilisync) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 - [efbfork/efb_qq_image_fallback](https://github.com/efbfork/efb_qq_image_fallback) - 
-- [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io) - 构建网站快速的Hugo主题，去除了全局侧边栏，以确保高效构建网站。
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.74.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.74.0), today) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.6.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.6.0), 2 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.31](https://github.com/z-mio/ParseHub/releases/tag/v2.0.31), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.39](https://github.com/z-mio/ParseHub/releases/tag/v2.0.39), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.74.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.74.1), today) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.6.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.6.0), 3 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 weeks ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 2 weeks ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [fix: mark QQ messages read before processing](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/10) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (3 days ago)
-- [fix: avoid blocking QQ message loop](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/9) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (3 days ago)
-- [Fix Prometheus metrics edge cases](https://github.com/Ovler-Young/efb-telegram-master/pull/30) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (6 days ago)
+- [fix: mark QQ messages read before processing](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/10) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (4 days ago)
+- [fix: avoid blocking QQ message loop](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/9) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (4 days ago)
+- [Fix Prometheus metrics edge cases](https://github.com/Ovler-Young/efb-telegram-master/pull/30) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 
 #### ⭐ Recent Stars
 
