@@ -25,16 +25,16 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.41](https://github.com/z-mio/ParseHub/releases/tag/v2.0.41), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.74.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.74.2), 1 day ago) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.6.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.6.0), 5 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.41](https://github.com/z-mio/ParseHub/releases/tag/v2.0.41), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.74.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.74.2), 2 days ago) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.6.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.6.0), 6 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 weeks ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 3 weeks ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [fix: mark QQ messages read before processing](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/10) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (6 days ago)
-- [fix: avoid blocking QQ message loop](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/9) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (6 days ago)
+- [fix: mark QQ messages read before processing](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/10) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 week ago)
+- [fix: avoid blocking QQ message loop](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp/pull/9) on [Ovler-Young/efb-qq-plugin-go-cqhttp](https://github.com/Ovler-Young/efb-qq-plugin-go-cqhttp) (1 week ago)
 - [Fix Prometheus metrics edge cases](https://github.com/Ovler-Young/efb-telegram-master/pull/30) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 
 #### ⭐ Recent Stars
@@ -45,11 +45,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Dvurechensky](https://github.com/Dvurechensky)
 - [Tianpeng2333](https://github.com/Tianpeng2333)
 - [NekoMirra](https://github.com/NekoMirra)
 - [reonokiy](https://github.com/reonokiy)
 - [STAR-10086](https://github.com/STAR-10086)
-- [emilycodestar](https://github.com/emilycodestar)
 
 #### 💬 Feedback
 
