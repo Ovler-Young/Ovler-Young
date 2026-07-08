@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [Ovler-Young/stt-vault](https://github.com/Ovler-Young/stt-vault) - 
 - [ovlerfork/meilisync](https://github.com/ovlerfork/meilisync) - 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
-- [efbfork/efb_qq_image_fallback](https://github.com/efbfork/efb_qq_image_fallback) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -19,15 +19,15 @@
 - [Ovler-Young/media-get](https://github.com/Ovler-Young/media-get) - Get the media through the url
 - ---
 
+- [Ovler-Young/stt-vault](https://github.com/Ovler-Young/stt-vault) - 
 - [Ovler-Young/maclight-qt](https://github.com/Ovler-Young/maclight-qt) - A fork of the popular GameStream client Moonlight focused only on MacOS.
 - [Ovler-Young/km_extractor](https://github.com/Ovler-Young/km_extractor) - 
-- [Ovler-Young/Browser-Based-Survival-Analysis-Studio](https://github.com/Ovler-Young/Browser-Based-Survival-Analysis-Studio) - 
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.0.41](https://github.com/z-mio/ParseHub/releases/tag/v2.0.41), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.74.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.74.2), 3 days ago) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.6.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.6.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.1.0](https://github.com/z-mio/ParseHub/releases/tag/v2.1.0), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.9.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.9.0), 1 day ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.74.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.74.2), 4 days ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 weeks ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 3 weeks ago) - 冰数据“寒棠”后端，使用Java
 
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [NekoMirra/biliTickerBuy](https://github.com/NekoMirra/biliTickerBuy) - b站会员购购票辅助工具-重构 (2 weeks ago)
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器 (1 day ago)
+- [NekoMirra/biliTickerBuy](https://github.com/NekoMirra/biliTickerBuy) - b站会员购购票辅助工具-重构 (3 weeks ago)
 - [Revincx/Yukigram](https://github.com/Revincx/Yukigram) - 64Gram fork (unofficial Telegram Desktop) (3 weeks ago)
-- [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) - A macOS app that auto-hides the Dock only when a window would cover it. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
