@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases with my code
 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.12.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.12.0), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.76.0](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.76.0), 1 day ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.1.7](https://github.com/z-mio/ParseHub/releases/tag/v2.1.7), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.1.8](https://github.com/z-mio/ParseHub/releases/tag/v2.1.8), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.76.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.76.1), today) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.12.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.12.0), 1 day ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 1 month ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 1 month ago) - 冰数据“寒棠”后端，使用Java
 
