@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.76.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.76.3), 3 days ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.1.9](https://github.com/z-mio/ParseHub/releases/tag/v2.1.9), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.1.10](https://github.com/z-mio/ParseHub/releases/tag/v2.1.10), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.76.3](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.76.3), 4 days ago) - 
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.12.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.12.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 1 month ago) - 
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 2 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
+- [Restore focused MTProto backfill behavior](https://github.com/Ovler-Young/efb-telegram-master/pull/38) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
 - [test: validate MTProto MsgLog ingestion in CI](https://github.com/Ovler-Young/efb-telegram-master/pull/37) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 - [test: validate live MsgLog ingestion](https://github.com/Ovler-Young/efb-telegram-master/pull/36) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
-- [Restore Prometheus runtime observability](https://github.com/Ovler-Young/efb-telegram-master/pull/34) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
