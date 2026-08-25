@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on in orgnizations!
 
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
-- [saveweb/sinavideo](https://github.com/saveweb/sinavideo) - sina legacy videos archive program (bilibili related)
+- [saveweb/sinavideo](https://github.com/saveweb/sinavideo) - sina legacy videos archive program (bilibili&acfun related) c2026-5
 - [ovlerfork/lody-docker](https://github.com/ovlerfork/lody-docker) - Ubuntu 26.04 LTS container image for Lody
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.77.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.77.1), 2 days ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.0](https://github.com/z-mio/ParseHub/releases/tag/v2.2.0), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.77.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.77.1), 3 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.0](https://github.com/z-mio/ParseHub/releases/tag/v2.2.0), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.12.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.12.0), 3 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 2 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Docker release lookup pagination](https://github.com/ovlerfork/paseo/pull/3) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
-- [Publish Docker images by upstream release channel](https://github.com/ovlerfork/paseo/pull/2) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
-- [Publish Docker images by upstream release channel](https://github.com/ovlerfork/paseo/pull/1) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
+- [Fix Docker release lookup pagination](https://github.com/ovlerfork/paseo/pull/3) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
+- [Publish Docker images by upstream release channel](https://github.com/ovlerfork/paseo/pull/2) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
+- [Publish Docker images by upstream release channel](https://github.com/ovlerfork/paseo/pull/1) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
 
 #### ⭐ Recent Stars
 
