@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.77.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.77.1), 6 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.77.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.77.1), 1 week ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.0](https://github.com/z-mio/ParseHub/releases/tag/v2.2.0), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v3.12.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v3.12.0), 4 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 months ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Backfill missing MsgLog history gaps](https://github.com/Ovler-Young/efb-telegram-master/pull/40) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [Persist queued MsgLog reconciliation](https://github.com/Ovler-Young/efb-telegram-master/pull/39) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [fix: delay minute fallback handoff](https://github.com/icedata-top/hantang-saas/pull/2) on [icedata-top/hantang-saas](https://github.com/icedata-top/hantang-saas) (today)
+- [Backfill missing MsgLog history gaps](https://github.com/Ovler-Young/efb-telegram-master/pull/40) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [Persist queued MsgLog reconciliation](https://github.com/Ovler-Young/efb-telegram-master/pull/39) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [fix: delay minute fallback handoff](https://github.com/icedata-top/hantang-saas/pull/2) on [icedata-top/hantang-saas](https://github.com/icedata-top/hantang-saas) (1 day ago)
 
 #### ⭐ Recent Stars
 
