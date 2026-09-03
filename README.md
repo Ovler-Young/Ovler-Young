@@ -19,23 +19,23 @@
 - [Ovler-Young/TierMaker](https://github.com/Ovler-Young/TierMaker) - 
 - ---
 
+- [Ovler-Young/x-island-Legado-source](https://github.com/Ovler-Young/x-island-Legado-source) - 
 - [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) - Oliver的Apps Pick
 - [Ovler-Young/stt-vault](https://github.com/Ovler-Young/stt-vault) - 
-- [Ovler-Young/maclight-qt](https://github.com/Ovler-Young/maclight-qt) - A fork of the popular GameStream client Moonlight focused only on MacOS.
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.1](https://github.com/z-mio/ParseHub/releases/tag/v2.2.1), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.0.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.0.0), 2 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.1](https://github.com/z-mio/ParseHub/releases/tag/v2.2.1), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.0.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.0.0), 3 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.77.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.77.1), 1 week ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 2 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Restore MsgLog recovery import compatibility](https://github.com/Ovler-Young/efb-telegram-master/pull/41) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (4 days ago)
-- [Backfill missing MsgLog history gaps](https://github.com/Ovler-Young/efb-telegram-master/pull/40) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (5 days ago)
-- [Persist queued MsgLog reconciliation](https://github.com/Ovler-Young/efb-telegram-master/pull/39) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (5 days ago)
+- [Restore MsgLog recovery import compatibility](https://github.com/Ovler-Young/efb-telegram-master/pull/41) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (5 days ago)
+- [Backfill missing MsgLog history gaps](https://github.com/Ovler-Young/efb-telegram-master/pull/40) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (6 days ago)
+- [Persist queued MsgLog reconciliation](https://github.com/Ovler-Young/efb-telegram-master/pull/39) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (6 days ago)
 
 #### ⭐ Recent Stars
 
