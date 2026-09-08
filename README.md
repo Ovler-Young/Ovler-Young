@@ -6,8 +6,8 @@
 #### 👷 Check out what I'm currently working on in orgnizations!
 
 - [Ovler-Young/neo-island-watcher](https://github.com/Ovler-Young/neo-island-watcher) - 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 - [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) - Oliver的Apps Pick
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.1), 2 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.1), 3 days ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.1](https://github.com/z-mio/ParseHub/releases/tag/v2.2.1), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.0.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.0.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 months ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Track the latest upstream release with prerelease images](https://github.com/ovlerfork/paseo/pull/4) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
 - [Restore MsgLog recovery import compatibility](https://github.com/Ovler-Young/efb-telegram-master/pull/41) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 - [Backfill missing MsgLog history gaps](https://github.com/Ovler-Young/efb-telegram-master/pull/40) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
-- [Persist queued MsgLog reconciliation](https://github.com/Ovler-Young/efb-telegram-master/pull/39) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 
 #### ⭐ Recent Stars
 
