@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.1), 4 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.1), 5 days ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.1](https://github.com/z-mio/ParseHub/releases/tag/v2.2.1), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.0.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.0.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 months ago) - 
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Track the latest upstream release with prerelease images](https://github.com/ovlerfork/paseo/pull/4) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
+- [Track the latest upstream release with prerelease images](https://github.com/ovlerfork/paseo/pull/4) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
 - [Restore MsgLog recovery import compatibility](https://github.com/Ovler-Young/efb-telegram-master/pull/41) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 - [Backfill missing MsgLog history gaps](https://github.com/Ovler-Young/efb-telegram-master/pull/40) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 week ago)
 
