@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.1), 6 days ago) - 
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.1), 1 week ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.1](https://github.com/z-mio/ParseHub/releases/tag/v2.2.1), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.0.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.0.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 2 months ago) - 
+- [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 3 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Fix crash when a course's pages listing returns 404](https://github.com/ovlerfork/canvas-student-data-export/pull/4) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (today)
-- [Fix course term extraction so exports keep the <Term> folder](https://github.com/ovlerfork/canvas-student-data-export/pull/3) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (today)
-- [Reduce Canvas API requests with bulk submissions, cached folders and page bodies](https://github.com/ovlerfork/canvas-student-data-export/pull/2) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (today)
+- [Fix crash when a course's pages listing returns 404](https://github.com/ovlerfork/canvas-student-data-export/pull/4) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (1 day ago)
+- [Fix course term extraction so exports keep the <Term> folder](https://github.com/ovlerfork/canvas-student-data-export/pull/3) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (1 day ago)
+- [Reduce Canvas API requests with bulk submissions, cached folders and page bodies](https://github.com/ovlerfork/canvas-student-data-export/pull/2) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (1 day ago)
 
 #### ⭐ Recent Stars
 
