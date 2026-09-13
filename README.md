@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix crash when a course's pages listing returns 404](https://github.com/ovlerfork/canvas-student-data-export/pull/4) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (1 day ago)
-- [Fix course term extraction so exports keep the <Term> folder](https://github.com/ovlerfork/canvas-student-data-export/pull/3) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (1 day ago)
-- [Reduce Canvas API requests with bulk submissions, cached folders and page bodies](https://github.com/ovlerfork/canvas-student-data-export/pull/2) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (1 day ago)
+- [Fix crash when a course's pages listing returns 404](https://github.com/ovlerfork/canvas-student-data-export/pull/4) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (2 days ago)
+- [Fix course term extraction so exports keep the <Term> folder](https://github.com/ovlerfork/canvas-student-data-export/pull/3) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (2 days ago)
+- [Reduce Canvas API requests with bulk submissions, cached folders and page bodies](https://github.com/ovlerfork/canvas-student-data-export/pull/2) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (2 days ago)
 
 #### ⭐ Recent Stars
 
