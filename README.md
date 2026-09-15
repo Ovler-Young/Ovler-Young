@@ -25,23 +25,23 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.1](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.1), 1 week ago) - 
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.0), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [Ovler-Young/smaller-netbird](https://github.com/Ovler-Young/smaller-netbird) ([v0.78.2](https://github.com/Ovler-Young/smaller-netbird/releases/tag/v0.78.2), today) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.1](https://github.com/z-mio/ParseHub/releases/tag/v2.2.1), 2 weeks ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.0.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.0.0), 2 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 3 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Fix crash when a course's pages listing returns 404](https://github.com/ovlerfork/canvas-student-data-export/pull/4) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (3 days ago)
-- [Fix course term extraction so exports keep the <Term> folder](https://github.com/ovlerfork/canvas-student-data-export/pull/3) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (3 days ago)
-- [Reduce Canvas API requests with bulk submissions, cached folders and page bodies](https://github.com/ovlerfork/canvas-student-data-export/pull/2) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (3 days ago)
+- [Fix crash when a course's pages listing returns 404](https://github.com/ovlerfork/canvas-student-data-export/pull/4) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (4 days ago)
+- [Fix course term extraction so exports keep the <Term> folder](https://github.com/ovlerfork/canvas-student-data-export/pull/3) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (4 days ago)
+- [Reduce Canvas API requests with bulk submissions, cached folders and page bodies](https://github.com/ovlerfork/canvas-student-data-export/pull/2) on [ovlerfork/canvas-student-data-export](https://github.com/ovlerfork/canvas-student-data-export) (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [youshen2/MeloX](https://github.com/youshen2/MeloX) - 专为 iOS 和 MacOS 原生开发的第三方网易云客户端，使用 SwiftUI 并基于液体玻璃设计，参考 iOS 26.6 / MacOS 26.6 版 Apple Music 的 UI 并提供特色功能。  /   A native third-party NetEase Cloud Music client for iOS and macOS, built with SwiftUI and Liquid Glass, inspired by Apple Music on iOS 26.6 and macOS 26.6, with unique features of its own. (1 month ago)
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 (2 months ago)
-- [NekoMirra/biliTickerBuy](https://github.com/NekoMirra/biliTickerBuy) - b站会员购购票辅助工具-重构 (2 months ago)
+- [NekoMirra/biliTickerBuy](https://github.com/NekoMirra/biliTickerBuy) - b站会员购购票辅助工具-重构 (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
