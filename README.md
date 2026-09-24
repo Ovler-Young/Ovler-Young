@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.4](https://github.com/z-mio/ParseHub/releases/tag/v2.2.4), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 6 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.4](https://github.com/z-mio/ParseHub/releases/tag/v2.2.4), 5 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 3 months ago) - 冰数据“寒棠”后端，使用Java
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.4.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.4.0), 3 months ago) - 
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (2 days ago)
-- [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (4 days ago)
-- [youshen2/MeloX](https://github.com/youshen2/MeloX) - 专为 iOS 和 MacOS 原生开发的第三方网易云客户端，使用 SwiftUI 并基于液体玻璃设计，参考 iOS 26.6 / MacOS 26.6 版 Apple Music 的 UI 并提供特色功能。  /   A native third-party NetEase Cloud Music client for iOS and macOS, built with SwiftUI and Liquid Glass, inspired by Apple Music on iOS 26.6 and macOS 26.6, with unique features of its own. (2 months ago)
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (today)
+- [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (3 days ago)
+- [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
