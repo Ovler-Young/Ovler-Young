@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.4](https://github.com/z-mio/ParseHub/releases/tag/v2.2.4), 6 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.4](https://github.com/z-mio/ParseHub/releases/tag/v2.2.4), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 3 months ago) - 冰数据“寒棠”后端，使用Java
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (1 day ago)
-- [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (4 days ago)
-- [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (6 days ago)
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (2 days ago)
+- [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (5 days ago)
+- [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
