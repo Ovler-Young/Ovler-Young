@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (2 days ago)
-- [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (5 days ago)
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (4 days ago)
+- [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (1 week ago)
 - [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (1 week ago)
 
 #### 👯 Check out some of my recent followers
