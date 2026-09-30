@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.5.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.5.0), today) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 1 day ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.4](https://github.com/z-mio/ParseHub/releases/tag/v2.2.4), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
@@ -33,13 +33,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Preserve the sender identity in blocking send receipts](https://github.com/Ovler-Young/efb-telegram-master/pull/57) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [Add shared sidebar groups and matching client releases](https://github.com/ovlerfork/paseo/pull/6) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
-- [Align live replay test observers](https://github.com/Ovler-Young/efb-telegram-master/pull/56) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Repair forum titles and history links after relinking](https://github.com/Ovler-Young/efb-telegram-master/pull/59) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Ad hoc sign Apple Silicon macOS releases](https://github.com/ovlerfork/paseo/pull/8) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
+- [Add forum relinking and near-limit reminders](https://github.com/Ovler-Young/efb-telegram-master/pull/58) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
 
 #### ⭐ Recent Stars
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (5 days ago)
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (6 days ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (1 week ago)
 - [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (1 week ago)
 
