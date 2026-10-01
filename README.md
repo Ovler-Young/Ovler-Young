@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 1 day ago) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 2 days ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.4](https://github.com/z-mio/ParseHub/releases/tag/v2.2.4), 1 week ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 2 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 3 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Repair forum titles and history links after relinking](https://github.com/Ovler-Young/efb-telegram-master/pull/59) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [Ad hoc sign Apple Silicon macOS releases](https://github.com/ovlerfork/paseo/pull/8) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
-- [Add forum relinking and near-limit reminders](https://github.com/Ovler-Young/efb-telegram-master/pull/58) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Repair forum titles and history links after relinking](https://github.com/Ovler-Young/efb-telegram-master/pull/59) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [Ad hoc sign Apple Silicon macOS releases](https://github.com/ovlerfork/paseo/pull/8) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
+- [Add forum relinking and near-limit reminders](https://github.com/Ovler-Young/efb-telegram-master/pull/58) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (6 days ago)
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (1 week ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (1 week ago)
 - [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (1 week ago)
 
