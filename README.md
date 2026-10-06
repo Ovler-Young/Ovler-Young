@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 6 days ago) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 1 week ago) - 
 - [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.2.4](https://github.com/z-mio/ParseHub/releases/tag/v2.2.4), 2 weeks ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 2 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Paseo unsigned IPA releases](https://github.com/Ovler-Young/apps-pick/pull/1) on [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) (today)
-- [Add configurable sidebar expansion settings](https://github.com/ovlerfork/paseo/pull/9) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
-- [Add OAuth audio transcription proxy aliases](https://github.com/reonokiy/codex-api/pull/2) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (3 days ago)
+- [Add durable live text message aggregation](https://github.com/Ovler-Young/efb-telegram-master/pull/60) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Add Paseo unsigned IPA releases](https://github.com/Ovler-Young/apps-pick/pull/1) on [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) (1 day ago)
+- [Add configurable sidebar expansion settings](https://github.com/ovlerfork/paseo/pull/9) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
 
 #### ⭐ Recent Stars
 
