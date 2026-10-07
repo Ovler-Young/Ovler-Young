@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
-- [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) - Oliver的Apps Pick
 - [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries
+- [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) - Oliver的Apps Pick
 - [ovlerfork/Lumen-Fusion](https://github.com/ovlerfork/Lumen-Fusion) - Maintainable macOS game-streaming host integrating selected Lumen-family improvements
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add durable live text message aggregation](https://github.com/Ovler-Young/efb-telegram-master/pull/60) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [Add Paseo unsigned IPA releases](https://github.com/Ovler-Young/apps-pick/pull/1) on [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) (1 day ago)
-- [Add configurable sidebar expansion settings](https://github.com/ovlerfork/paseo/pull/9) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
+- [Run SDK checks and container builds concurrently](https://github.com/reonokiy/codex-api/pull/9) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (today)
+- [Cache Rust dependencies across CI builds](https://github.com/reonokiy/codex-api/pull/8) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (1 day ago)
+- [Fix/audio transcription](https://github.com/reonokiy/codex-api/pull/7) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (1 day ago)
 
 #### ⭐ Recent Stars
 
