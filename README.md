@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.0](https://github.com/z-mio/ParseHub/releases/tag/v2.3.0), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.3](https://github.com/z-mio/ParseHub/releases/tag/v2.3.3), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 1 week ago) - 
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 3 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 3 months ago) - 
@@ -33,15 +33,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Run SDK checks and container builds concurrently](https://github.com/reonokiy/codex-api/pull/9) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (2 days ago)
-- [Cache Rust dependencies across CI builds](https://github.com/reonokiy/codex-api/pull/8) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (3 days ago)
-- [Fix/audio transcription](https://github.com/reonokiy/codex-api/pull/7) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (3 days ago)
+- [Run SDK checks and container builds concurrently](https://github.com/reonokiy/codex-api/pull/9) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (3 days ago)
+- [Cache Rust dependencies across CI builds](https://github.com/reonokiy/codex-api/pull/8) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (4 days ago)
+- [Fix/audio transcription](https://github.com/reonokiy/codex-api/pull/7) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (2 weeks ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (2 weeks ago)
-- [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (2 weeks ago)
+- [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
