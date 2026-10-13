@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.3](https://github.com/z-mio/ParseHub/releases/tag/v2.3.3), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 1 week ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.3](https://github.com/z-mio/ParseHub/releases/tag/v2.3.3), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 2 weeks ago) - 
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 3 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 4 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Run SDK checks and container builds concurrently](https://github.com/reonokiy/codex-api/pull/9) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (5 days ago)
-- [Cache Rust dependencies across CI builds](https://github.com/reonokiy/codex-api/pull/8) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (6 days ago)
-- [Fix/audio transcription](https://github.com/reonokiy/codex-api/pull/7) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (6 days ago)
+- [Keep stable release tags eligible for Beta updates](https://github.com/ovlerfork/paseo/pull/11) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
+- [Keep viewed sidebar branches open until navigation](https://github.com/ovlerfork/paseo/pull/10) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
+- [Run SDK checks and container builds concurrently](https://github.com/reonokiy/codex-api/pull/9) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (6 days ago)
 
 #### ⭐ Recent Stars
 
