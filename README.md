@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.5](https://github.com/z-mio/ParseHub/releases/tag/v2.3.5), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.10](https://github.com/z-mio/ParseHub/releases/tag/v2.3.10), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.2.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.2.0), 1 day ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 2 weeks ago) - 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.1.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.1.1), 3 weeks ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 4 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Keep stable release tags eligible for Beta updates](https://github.com/ovlerfork/paseo/pull/11) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
-- [Keep viewed sidebar branches open until navigation](https://github.com/ovlerfork/paseo/pull/10) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
-- [Run SDK checks and container builds concurrently](https://github.com/reonokiy/codex-api/pull/9) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (1 week ago)
+- [Fix/backfill ci timestamp](https://github.com/Ovler-Young/efb-telegram-master/pull/61) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (2 days ago)
+- [Keep stable release tags eligible for Beta updates](https://github.com/ovlerfork/paseo/pull/11) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
+- [Keep viewed sidebar branches open until navigation](https://github.com/ovlerfork/paseo/pull/10) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (2 weeks ago)
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (3 weeks ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (3 weeks ago)
 - [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (3 weeks ago)
 
