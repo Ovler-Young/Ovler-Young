@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 - [Ovler-Young/stt-vault](https://github.com/Ovler-Young/stt-vault) - 
 - [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries
-- [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) - Oliver的Apps Pick
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.10](https://github.com/z-mio/ParseHub/releases/tag/v2.3.10), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.2.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.2.0), 2 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.6.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.6.0), 2 weeks ago) - 
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.0), today) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.11](https://github.com/z-mio/ParseHub/releases/tag/v2.3.11), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.2.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.2.0), 3 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 4 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Fix/backfill ci timestamp](https://github.com/Ovler-Young/efb-telegram-master/pull/61) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (3 days ago)
-- [Keep stable release tags eligible for Beta updates](https://github.com/ovlerfork/paseo/pull/11) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (4 days ago)
-- [Keep viewed sidebar branches open until navigation](https://github.com/ovlerfork/paseo/pull/10) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (4 days ago)
+- [Release 5.8.0](https://github.com/icedata-top/hantang-dynamic/pull/46) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
+- [Run unit tests in CI](https://github.com/icedata-top/hantang-dynamic/pull/45) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
+- [Check processed videos in one batch per page](https://github.com/icedata-top/hantang-dynamic/pull/44) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
 
 #### ⭐ Recent Stars
 
