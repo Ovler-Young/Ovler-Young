@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 1 day ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.11](https://github.com/z-mio/ParseHub/releases/tag/v2.3.11), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.2.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.2.0), 4 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.12](https://github.com/z-mio/ParseHub/releases/tag/v2.3.12), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.2.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.2.1), today) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 2 days ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 4 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Build a Nix Harness container with GHCR releases](https://github.com/Ovler-Young/wishmachine/pull/1) on [Ovler-Young/wishmachine](https://github.com/Ovler-Young/wishmachine) (today)
-- [Release 5.8.0](https://github.com/icedata-top/hantang-dynamic/pull/46) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
-- [Run unit tests in CI](https://github.com/icedata-top/hantang-dynamic/pull/45) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [Refresh Bilibili cookies with the passport flow](https://github.com/icedata-top/hantang-dynamic/pull/47) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [Build a Nix Harness container with GHCR releases](https://github.com/Ovler-Young/wishmachine/pull/1) on [Ovler-Young/wishmachine](https://github.com/Ovler-Young/wishmachine) (1 day ago)
+- [Release 5.8.0](https://github.com/icedata-top/hantang-dynamic/pull/46) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
 
 #### ⭐ Recent Stars
 
