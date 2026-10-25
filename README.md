@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.14](https://github.com/z-mio/ParseHub/releases/tag/v2.3.14), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.2.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.2.1), 4 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 6 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.14](https://github.com/z-mio/ParseHub/releases/tag/v2.3.14), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.2.1](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.2.1), 5 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 1 week ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 4 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Fix empty publisher arguments on macOS](https://github.com/ovlerfork/paseo/pull/14) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
-- [Publish client releases incrementally and support Swift 6.2 dev builds](https://github.com/ovlerfork/paseo/pull/13) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
-- [Fix multiserver groups and message links](https://github.com/ovlerfork/paseo/pull/12) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
+- [Fix empty publisher arguments on macOS](https://github.com/ovlerfork/paseo/pull/14) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
+- [Publish client releases incrementally and support Swift 6.2 dev builds](https://github.com/ovlerfork/paseo/pull/13) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
+- [Fix multiserver groups and message links](https://github.com/ovlerfork/paseo/pull/12) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -45,11 +45,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [0vm](https://github.com/0vm)
 - [xu-yiwen](https://github.com/xu-yiwen)
 - [enkerewpo](https://github.com/enkerewpo)
 - [chanyeolvivi](https://github.com/chanyeolvivi)
 - [luoingly](https://github.com/luoingly)
-- [Dvurechensky](https://github.com/Dvurechensky)
 
 #### 💬 Feedback
 
