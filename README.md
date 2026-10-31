@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 3 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.15](https://github.com/z-mio/ParseHub/releases/tag/v2.3.15), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.17](https://github.com/z-mio/ParseHub/releases/tag/v2.3.17), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 4 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 1 week ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 4 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Upd video history backfill](https://github.com/icedata-top/hantang-dynamic/pull/48) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
-- [Remove bundled Markdown codegen override](https://github.com/ovlerfork/paseo/pull/17) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
-- [Fix iOS Markdown code font scale codegen](https://github.com/ovlerfork/paseo/pull/16) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (3 days ago)
+- [Upd video history backfill](https://github.com/icedata-top/hantang-dynamic/pull/48) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
+- [Remove bundled Markdown codegen override](https://github.com/ovlerfork/paseo/pull/17) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (4 days ago)
+- [Fix iOS Markdown code font scale codegen](https://github.com/ovlerfork/paseo/pull/16) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (4 days ago)
 
 #### ⭐ Recent Stars
 
