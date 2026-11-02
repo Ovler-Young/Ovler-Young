@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.3.17](https://github.com/z-mio/ParseHub/releases/tag/v2.3.17), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 5 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), today) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 6 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 2 weeks ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.06.13-e60cce0](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.06.13-e60cce0), 4 months ago) - 冰数据“寒棠”后端，使用Java
 
 #### 🔨 My recent Pull Requests
 
-- [Upd video history backfill](https://github.com/icedata-top/hantang-dynamic/pull/48) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (3 days ago)
-- [Remove bundled Markdown codegen override](https://github.com/ovlerfork/paseo/pull/17) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (5 days ago)
-- [Fix iOS Markdown code font scale codegen](https://github.com/ovlerfork/paseo/pull/16) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (5 days ago)
+- [build: migrate 360T7 to official ImmortalWrt 25.12.2 (experimental)](https://github.com/Ovler-Young/360-T7/pull/2) on [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) (today)
+- [Reuse upstream HTTP connections for Responses requests](https://github.com/reonokiy/codex-api/pull/22) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (today)
+- [Update 360T7 firmware and mitigate recurring SMP hotplug restarts](https://github.com/Ovler-Young/360-T7/pull/1) on [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) (1 day ago)
 
 #### ⭐ Recent Stars
 
