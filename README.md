@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) - 
+- [Ovler-Young/apps-pick](https://github.com/Ovler-Young/apps-pick) - Oliver的Apps Pick
 - [Ovler-Young/stt-vault](https://github.com/Ovler-Young/stt-vault) - 
-- [Ovler-Young/wishmachine](https://github.com/Ovler-Young/wishmachine) - 
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), today) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 6 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 1 day ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 2 weeks ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [build: migrate 360T7 to official ImmortalWrt 25.12.2 (experimental)](https://github.com/Ovler-Young/360-T7/pull/2) on [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) (today)
-- [Reuse upstream HTTP connections for Responses requests](https://github.com/reonokiy/codex-api/pull/22) on [reonokiy/codex-api](https://github.com/reonokiy/codex-api) (today)
-- [Update 360T7 firmware and mitigate recurring SMP hotplug restarts](https://github.com/Ovler-Young/360-T7/pull/1) on [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) (1 day ago)
+- [Replace video daily backfill with verified aid-batched sync](https://github.com/icedata-top/hantang-dynamic/pull/50) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
+- [Fix patch conflicts with current upstream sidebar and Markdown changes](https://github.com/ovlerfork/paseo/pull/18) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
+- [build: migrate 360T7 to official ImmortalWrt 25.12.2 (experimental)](https://github.com/Ovler-Young/360-T7/pull/2) on [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) (1 day ago)
 
 #### ⭐ Recent Stars
 
