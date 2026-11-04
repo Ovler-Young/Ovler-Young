@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 1 day ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 2 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 2 weeks ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Replace video daily backfill with verified aid-batched sync](https://github.com/icedata-top/hantang-dynamic/pull/50) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
-- [Fix patch conflicts with current upstream sidebar and Markdown changes](https://github.com/ovlerfork/paseo/pull/18) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (today)
-- [build: migrate 360T7 to official ImmortalWrt 25.12.2 (experimental)](https://github.com/Ovler-Young/360-T7/pull/2) on [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) (1 day ago)
+- [Replace video daily backfill with verified aid-batched sync](https://github.com/icedata-top/hantang-dynamic/pull/50) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [Fix patch conflicts with current upstream sidebar and Markdown changes](https://github.com/ovlerfork/paseo/pull/18) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
+- [build: migrate 360T7 to official ImmortalWrt 25.12.2 (experimental)](https://github.com/Ovler-Young/360-T7/pull/2) on [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -45,11 +45,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Zinoujoker](https://github.com/Zinoujoker)
 - [0vm](https://github.com/0vm)
 - [xu-yiwen](https://github.com/xu-yiwen)
 - [enkerewpo](https://github.com/enkerewpo)
 - [chanyeolvivi](https://github.com/chanyeolvivi)
-- [luoingly](https://github.com/luoingly)
 
 #### 💬 Feedback
 
