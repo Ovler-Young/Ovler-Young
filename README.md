@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 3 days ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 4 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 2 weeks ago) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) ([v2.0.0](https://github.com/Ovler-Young/DizzySync/releases/tag/v2.0.0), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Restore sidebar patch compatibility with stable and beta releases](https://github.com/ovlerfork/paseo/pull/20) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
-- [Fix project-group build failure after registry API change](https://github.com/ovlerfork/paseo/pull/19) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (1 day ago)
-- [Replace video daily backfill with verified aid-batched sync](https://github.com/icedata-top/hantang-dynamic/pull/50) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (2 days ago)
+- [Restore sidebar patch compatibility with stable and beta releases](https://github.com/ovlerfork/paseo/pull/20) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
+- [Fix project-group build failure after registry API change](https://github.com/ovlerfork/paseo/pull/19) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (2 days ago)
+- [Replace video daily backfill with verified aid-batched sync](https://github.com/icedata-top/hantang-dynamic/pull/50) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (3 days ago)
 
 #### ⭐ Recent Stars
 
