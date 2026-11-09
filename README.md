@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases with my code
 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 1 day ago) - 冰数据“寒棠”后端，使用Java
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 6 days ago) - 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.0](https://github.com/z-mio/ParseHub/releases/tag/v2.4.0), 6 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.1](https://github.com/z-mio/ParseHub/releases/tag/v2.4.1), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.10.0](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.10.0), 1 day ago) - 
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 2 days ago) - 冰数据“寒棠”后端，使用Java
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 1 week ago) - 
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.3.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.3.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.9.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.9.1), 3 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Prune MySQL video_daily after a verified nightly copy](https://github.com/icedata-top/hantang-dynamic/pull/52) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
-- [Make daily video_daily cron insert-only](https://github.com/icedata-top/hantang-dynamic/pull/51) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
-- [Restore sidebar patch compatibility with stable and beta releases](https://github.com/ovlerfork/paseo/pull/20) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (4 days ago)
+- [Prune MySQL video_daily after a verified nightly copy](https://github.com/icedata-top/hantang-dynamic/pull/52) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [Make daily video_daily cron insert-only](https://github.com/icedata-top/hantang-dynamic/pull/51) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
+- [Restore sidebar patch compatibility with stable and beta releases](https://github.com/ovlerfork/paseo/pull/20) on [ovlerfork/paseo](https://github.com/ovlerfork/paseo) (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -46,10 +46,10 @@
 #### 👯 Check out some of my recent followers
 
 - [Zinoujoker](https://github.com/Zinoujoker)
-- [0vm](https://github.com/0vm)
 - [xu-yiwen](https://github.com/xu-yiwen)
 - [enkerewpo](https://github.com/enkerewpo)
 - [chanyeolvivi](https://github.com/chanyeolvivi)
+- [luoingly](https://github.com/luoingly)
 
 #### 💬 Feedback
 
