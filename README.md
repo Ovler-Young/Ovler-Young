@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) - 冰数据“寒棠”后端，使用Java
-- [Ovler-Young/stt-vault](https://github.com/Ovler-Young/stt-vault) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
 
@@ -25,23 +25,23 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.2](https://github.com/z-mio/ParseHub/releases/tag/v2.4.2), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.5.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.5.0), 3 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
-- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.10.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.10.1), 6 days ago) - 
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.2](https://github.com/z-mio/ParseHub/releases/tag/v2.4.2), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.5.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.5.0), 4 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.10.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.10.1), 1 week ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 1 week ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Decide minute monitoring from a database whitelist and a trigger](https://github.com/icedata-top/hantang-dynamic/pull/53) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (today)
+- [Fix playback like state ownership across track changes](https://github.com/Losses/rune/pull/607) on [Losses/rune](https://github.com/Losses/rune) (today)
+- [Decide minute monitoring from a database whitelist and a trigger](https://github.com/icedata-top/hantang-dynamic/pull/53) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 day ago)
 - [Prune MySQL video_daily after a verified nightly copy](https://github.com/icedata-top/hantang-dynamic/pull/52) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 week ago)
-- [Make daily video_daily cron insert-only](https://github.com/icedata-top/hantang-dynamic/pull/51) on [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [AhaiMk01/esum](https://github.com/AhaiMk01/esum) - ESUM (Every Site, Unwrapped for Models): a CLI and skills that let coding agents read forums, deal blogs and fare sites (today)
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (1 month ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (1 month ago)
-- [reonokiy/codex-api](https://github.com/reonokiy/codex-api) - Responses API and native Codex gateway using pinned Codex Rust libraries (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
