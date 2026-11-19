@@ -25,31 +25,31 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.3](https://github.com/z-mio/ParseHub/releases/tag/v2.4.3), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
-- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.5.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.5.0), 5 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.3](https://github.com/z-mio/ParseHub/releases/tag/v2.4.3), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.5.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.5.0), 6 days ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.10.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.10.1), 1 week ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 1 week ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Fix GPU analysis with non-power-of-two batch capacities](https://github.com/Losses/rune/pull/666) on [Losses/rune](https://github.com/Losses/rune) (today)
-- [Wait for playback before sending now-playing updates](https://github.com/Losses/rune/pull/665) on [Losses/rune](https://github.com/Losses/rune) (today)
-- [Keep Emoji Tunnel move events through their duration](https://github.com/Losses/rune/pull/664) on [Losses/rune](https://github.com/Losses/rune) (today)
+- [Show remote authors' avatars as custom emoji in message headers](https://github.com/Ovler-Young/efb-telegram-master/pull/67) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [test(sync): Verify revocation purges real device tokens](https://github.com/Losses/rune/pull/692) on [Losses/rune](https://github.com/Losses/rune) (today)
+- [fix(discovery): stop device announcements at broadcast expiry](https://github.com/Losses/rune/pull/690) on [Losses/rune](https://github.com/Losses/rune) (today)
 
 #### ⭐ Recent Stars
 
-- [AhaiMk01/esum](https://github.com/AhaiMk01/esum) - ESUM (Every Site, Unwrapped for Models): a CLI and skills that let coding agents read forums, deal blogs and fare sites (1 day ago)
+- [AhaiMk01/esum](https://github.com/AhaiMk01/esum) - ESUM (Every Site, Unwrapped for Models): a CLI and skills that let coding agents read forums, deal blogs and fare sites (2 days ago)
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (1 month ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [boldotter921](https://github.com/boldotter921)
 - [Zinoujoker](https://github.com/Zinoujoker)
 - [xu-yiwen](https://github.com/xu-yiwen)
 - [enkerewpo](https://github.com/enkerewpo)
 - [chanyeolvivi](https://github.com/chanyeolvivi)
-- [luoingly](https://github.com/luoingly)
 
 #### 💬 Feedback
 
