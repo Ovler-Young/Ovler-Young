@@ -25,21 +25,21 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.3](https://github.com/z-mio/ParseHub/releases/tag/v2.4.3), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.4](https://github.com/z-mio/ParseHub/releases/tag/v2.4.4), today) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.5.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.5.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.10.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.10.1), 1 week ago) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 1 week ago) - 冰数据“寒棠”后端，使用Java
+- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 2 weeks ago) - 冰数据“寒棠”后端，使用Java
 - [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Fix state machine follow-ups: confirm refusal, reopen, discarded deliveries, failing sends](https://github.com/Ovler-Young/efb-telegram-master/pull/68) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [Show remote authors' avatars as custom emoji in message headers](https://github.com/Ovler-Young/efb-telegram-master/pull/67) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
-- [test(sync): Verify revocation purges real device tokens](https://github.com/Losses/rune/pull/692) on [Losses/rune](https://github.com/Losses/rune) (1 day ago)
+- [Store U+0000 in message and chat text as U+FFFD on PostgreSQL](https://github.com/Ovler-Young/efb-telegram-master/pull/73) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Keep the outbound queue in PostgreSQL when the database is PostgreSQL](https://github.com/Ovler-Young/efb-telegram-master/pull/72) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [Optional emoji in topic names, WeChat quotes as replies, GIF size retry](https://github.com/Ovler-Young/efb-telegram-master/pull/71) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
 
 #### ⭐ Recent Stars
 
-- [AhaiMk01/esum](https://github.com/AhaiMk01/esum) - ESUM (Every Site, Unwrapped for Models): a CLI and skills that let coding agents read forums, deal blogs and fare sites (3 days ago)
+- [AhaiMk01/esum](https://github.com/AhaiMk01/esum) - ESUM (Every Site, Unwrapped for Models): a CLI and skills that let coding agents read forums, deal blogs and fare sites (4 days ago)
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (1 month ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (2 months ago)
 
