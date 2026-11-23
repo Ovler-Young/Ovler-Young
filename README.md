@@ -25,22 +25,22 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.4](https://github.com/z-mio/ParseHub/releases/tag/v2.4.4), 1 day ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.4](https://github.com/z-mio/ParseHub/releases/tag/v2.4.4), 2 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.5.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.5.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.10.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.10.1), 1 week ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 2 weeks ago) - 冰数据“寒棠”后端，使用Java
-- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 2 weeks ago) - 
+- [Ovler-Young/360-T7](https://github.com/Ovler-Young/360-T7) ([2026.11.02-1045](https://github.com/Ovler-Young/360-T7/releases/tag/2026.11.02-1045), 3 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix(discovery): apply trust hooks only after the trust file is saved](https://github.com/Losses/rune/pull/787) on [Losses/rune](https://github.com/Losses/rune) (today)
-- [clear_unsendable: send a gone file's caption as text and resend timed-out sends for rows listed as not delivered](https://github.com/Ovler-Young/efb-telegram-master/pull/78) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [Retry an unconfirmed edit once instead of holding it; keep Telegram's error text with a hold](https://github.com/Ovler-Young/efb-telegram-master/pull/77) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [fix: hold an edit that cannot be built from its own queued state instead of stopping the send worker](https://github.com/Ovler-Young/efb-telegram-master/pull/82) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [refactor: drop state tables and checks that guard nothing](https://github.com/Ovler-Young/efb-telegram-master/pull/81) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [fix: hold an edit or removal whose target message never came into being instead of stopping the send worker](https://github.com/Ovler-Young/efb-telegram-master/pull/80) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
 
 #### ⭐ Recent Stars
 
-- [AhaiMk01/esum](https://github.com/AhaiMk01/esum) - ESUM (Every Site, Unwrapped for Models): a CLI and skills that let coding agents read forums, deal blogs and fare sites (5 days ago)
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (1 month ago)
+- [AhaiMk01/esum](https://github.com/AhaiMk01/esum) - ESUM (Every Site, Unwrapped for Models): a CLI and skills that let coding agents read forums, deal blogs and fare sites (6 days ago)
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology. (2 months ago)
 - [jayl-dev/Lumina](https://github.com/jayl-dev/Lumina) - Native macOS game streaming for Apple Silicon. Fork of Sunshine with system audio, virtual displays, gamepad support, and VideoToolbox fixes. (2 months ago)
 
 #### 👯 Check out some of my recent followers
