@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on in orgnizations!
 
-- [icedata-top/biliproxy](https://github.com/icedata-top/biliproxy) - 
-- [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) - 冰数据“寒棠”后端，使用Java
+- [ovlerfork/meilisync](https://github.com/ovlerfork/meilisync) - 
+- [Ovler-Young/stt-vault](https://github.com/Ovler-Young/stt-vault) - 
 - [Ovler-Young/DizzySync](https://github.com/Ovler-Young/DizzySync) - 
 
 #### 🌱 My latest projects (6 Forks and 3 Original)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases with my code
 
-- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.4](https://github.com/z-mio/ParseHub/releases/tag/v2.4.4), 3 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
+- [z-mio/ParseHub](https://github.com/z-mio/ParseHub) ([v2.4.4](https://github.com/z-mio/ParseHub/releases/tag/v2.4.4), 4 days ago) - 轻量、异步、开箱即用的社交媒体聚合解析库
 - [SayaGoodBye/nmbxd-EX](https://github.com/SayaGoodBye/nmbxd-EX) ([v4.5.0](https://github.com/SayaGoodBye/nmbxd-EX/releases/tag/v4.5.0), 1 week ago) - X岛-EX[nmbxd-EX] 网页端增强，移动端般的浏览体验
 - [icedata-top/hantang-dynamic](https://github.com/icedata-top/hantang-dynamic) ([v5.10.1](https://github.com/icedata-top/hantang-dynamic/releases/tag/v5.10.1), 2 weeks ago) - 
 - [icedata-top/hantang-web-backend](https://github.com/icedata-top/hantang-web-backend) ([v2026.11.07-c227d35](https://github.com/icedata-top/hantang-web-backend/releases/tag/v2026.11.07-c227d35), 2 weeks ago) - 冰数据“寒棠”后端，使用Java
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: settle sends and edits a restart interrupted when the queue opens](https://github.com/Ovler-Young/efb-telegram-master/pull/83) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
-- [fix: hold an edit that cannot be built from its own queued state instead of stopping the send worker](https://github.com/Ovler-Young/efb-telegram-master/pull/82) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
-- [refactor: drop state tables and checks that guard nothing](https://github.com/Ovler-Young/efb-telegram-master/pull/81) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [fix: an edit made while a combined message is first being sent is no longer undone by the next new message](https://github.com/Ovler-Young/efb-telegram-master/pull/85) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (today)
+- [refactor: move the catch-up import into its own command](https://github.com/Ovler-Young/efb-telegram-master/pull/84) on [Ovler-Young/efb-telegram-master](https://github.com/Ovler-Young/efb-telegram-master) (1 day ago)
+- [Fix /api/entry/<id> returning 500: look the post up by its post number](https://github.com/Ovler-Young/island-search-backend/pull/1) on [Ovler-Young/island-search-backend](https://github.com/Ovler-Young/island-search-backend) (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -45,11 +45,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [boldotter921](https://github.com/boldotter921)
 - [Zinoujoker](https://github.com/Zinoujoker)
 - [xu-yiwen](https://github.com/xu-yiwen)
 - [enkerewpo](https://github.com/enkerewpo)
 - [chanyeolvivi](https://github.com/chanyeolvivi)
+- [luoingly](https://github.com/luoingly)
 
 #### 💬 Feedback
 
